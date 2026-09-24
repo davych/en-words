@@ -1,0 +1,4142 @@
+[
+  {
+    "term": "vice versa",
+    "definition": "The other way around; the reverse of what was just said.",
+    "examples": [
+      "She helps me with my work, and vice versa.",
+      "I don’t trust him, and vice versa."
+    ],
+    "expandedExample": "I check her numbers, and vice versa.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "as of now",
+    "definition": "Up to the present moment; at this point in time.",
+    "examples": [
+      "As of now, there are no further updates.",
+      "As of now, the project is on schedule."
+    ],
+    "expandedExample": "As of now, we have no confirmed launch date.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "farewell mural",
+    "definition": "A wall painting created to say goodbye or commemorate someone’s departure.",
+    "examples": [
+      "The team painted a farewell mural to celebrate her contributions before she left.",
+      "They unveiled a farewell mural for the retiring principal."
+    ],
+    "expandedExample": "Our colleagues added their signatures to the farewell mural.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "onwards",
+    "definition": "Continuing from a particular time or point; forward in time or place.",
+    "examples": [
+      "The event will continue from 3 PM onwards.",
+      "From this day onwards, I will work harder."
+    ],
+    "expandedExample": "The new policy applies from Monday onwards.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "ahead of me",
+    "definition": "In the future; something that is going to happen to me.",
+    "examples": [
+      "I have a long flight ahead of me tomorrow.",
+      "There are many challenges ahead of me in this new job."
+    ],
+    "expandedExample": "I have a difficult conversation ahead of me.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "relief",
+    "definition": "A feeling of comfort after something stressful is removed; the reduction of pain or distress.",
+    "examples": [
+      "I felt a sense of relief after hearing the good news.",
+      "The medicine gave her relief from the pain."
+    ],
+    "expandedExample": "It was a relief to hear that everyone was safe.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "celebration",
+    "definition": "The act of marking a special event or occasion with enjoyable activities.",
+    "examples": [
+      "There was a big celebration after the team won the championship.",
+      "We had a small celebration for her birthday."
+    ],
+    "expandedExample": "The release ended with a small team celebration.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "relief and celebration",
+    "definition": "The feeling of comfort and happiness after a stressful event is over.",
+    "examples": [
+      "After the exam, there was a feeling of relief and celebration among the students.",
+      "The successful launch was met with relief and celebration in the control room."
+    ],
+    "expandedExample": "The successful recovery brought both relief and celebration.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "harmonize",
+    "definition": "To bring into agreement or harmony; to make consistent or compatible.",
+    "examples": [
+      "The team worked hard to harmonize their ideas before the presentation.",
+      "The colors in the room harmonize well with the furniture."
+    ],
+    "expandedExample": "We need to harmonize the terminology across both documents.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "clubbed together",
+    "definition": "To combine resources or efforts, usually money, for a common purpose.",
+    "examples": [
+      "We all clubbed together to buy a gift for our manager.",
+      "The students clubbed together to rent a bigger apartment."
+    ],
+    "expandedExample": "We clubbed together to buy a farewell gift.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "bandwidth",
+    "definition": "The amount of data that can be transmitted in a fixed amount of time; (Figurative) The capacity to handle tasks or issues.",
+    "examples": [
+      "I don’t have enough bandwidth to take on another project right now.",
+      "The internet bandwidth here is too low for video calls."
+    ],
+    "expandedExample": "I have the bandwidth to review one more proposal today.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "retirement",
+    "definition": "The act of leaving one’s job and ceasing to work, usually due to age; can also mean withdrawing something from use.",
+    "examples": [
+      "After 40 years of service, he is looking forward to his retirement.",
+      "The company announced the retirement of its old software system."
+    ],
+    "expandedExample": "The old API is scheduled for retirement next quarter.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "in that sense",
+    "definition": "In that way or from that perspective.",
+    "examples": [
+      "In that sense, your suggestion makes a lot of sense.",
+      "He’s not wrong, in that sense, but there are other factors to consider."
+    ],
+    "expandedExample": "In that sense, the simpler option is safer.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "struggling to",
+    "definition": "Having difficulty doing something.",
+    "examples": [
+      "She is struggling to finish her assignment on time.",
+      "Many small businesses are struggling to survive in the current economy."
+    ],
+    "expandedExample": "I'm struggling to explain this without a diagram.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "rush to",
+    "definition": "To hurry to do something or go somewhere quickly.",
+    "examples": [
+      "Don’t rush to make a decision without thinking it through.",
+      "He rushed to the station to catch the last train."
+    ],
+    "expandedExample": "We shouldn't rush to change the plan.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "more or less",
+    "definition": "Approximately; almost; to some extent.",
+    "examples": [
+      "The project is more or less complete.",
+      "He’s more or less the leader of the group."
+    ],
+    "expandedExample": "The design is more or less ready for review.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "from time to time",
+    "definition": "Occasionally; sometimes.",
+    "examples": [
+      "I revisit these notes from time to time."
+    ],
+    "expandedExample": "I revisit these notes from time to time.",
+    "originalForms": [
+      "time to time"
+    ],
+    "corrected": true
+  },
+  {
+    "term": "somehow",
+    "definition": "In some way; for some reason not specified.",
+    "examples": [
+      "Somehow, we managed to solve the problem.",
+      "She lost her keys and somehow found them in the fridge."
+    ],
+    "expandedExample": "We somehow missed the final approval step.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "in terms of",
+    "definition": "Regarding; with respect to; in relation to.",
+    "examples": [
+      "In terms of price, this product is very competitive.",
+      "The two options are similar in terms of quality."
+    ],
+    "expandedExample": "In terms of cost, this option works better.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "I'll take care of it on my side",
+    "definition": "Left something for me to handle or deal with.",
+    "examples": [
+      "I'll take care of it on my side and report back."
+    ],
+    "expandedExample": "I'll take care of it on my side and report back.",
+    "originalForms": [
+      "left it on my side"
+    ],
+    "corrected": true
+  },
+  {
+    "term": "how often this happens",
+    "definition": "The frequency with which something occurs.",
+    "examples": [
+      "How often does this happen in production?"
+    ],
+    "expandedExample": "How often does this happen in production?",
+    "originalForms": [
+      "how often this happened"
+    ],
+    "corrected": true
+  },
+  {
+    "term": "concentrate on",
+    "definition": "To focus one’s attention or effort on something.",
+    "examples": [
+      "Please concentrate on your work.",
+      "It’s hard to concentrate on reading with so much noise."
+    ],
+    "expandedExample": "Let's concentrate on the main issue first.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "do a final walkthrough",
+    "definition": "To check or test everything one last time, especially in a digital context.",
+    "examples": [
+      "Please do a final walkthrough before we publish."
+    ],
+    "expandedExample": "Please do a final walkthrough before we publish.",
+    "originalForms": [
+      "do your final click around"
+    ],
+    "corrected": true
+  },
+  {
+    "term": "spillover",
+    "definition": "The effect of one event or situation spreading into another; overflow.",
+    "examples": [
+      "The economic crisis had a spillover effect on neighboring countries.",
+      "There was a spillover of the meeting into the next hour."
+    ],
+    "expandedExample": "The delay had a spillover effect on the next sprint.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "figure out",
+    "definition": "To understand or solve something.",
+    "examples": [
+      "I need to figure out how this system works.",
+      "Can you figure out the answer to this question?"
+    ],
+    "expandedExample": "I'll figure out why the request failed.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "other than that",
+    "definition": "Except for what has just been mentioned.",
+    "examples": [
+      "Other than that, everything is fine.",
+      "The report is complete, other than that one missing section."
+    ],
+    "expandedExample": "Other than that, the trip went smoothly.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "context-aware tool",
+    "definition": "A tool that provides functions or information relevant to the current context or situation.",
+    "examples": [
+      "A context-aware tool could show the relevant file at the right time."
+    ],
+    "expandedExample": "A context-aware tool could show the relevant file at the right time.",
+    "originalForms": [
+      "in context tool"
+    ],
+    "corrected": true
+  },
+  {
+    "term": "separate from the rest of the system",
+    "definition": "Separate from the rest of a system or process.",
+    "examples": [
+      "Let's keep this module separate from the rest of the system."
+    ],
+    "expandedExample": "Let's keep this module separate from the rest of the system.",
+    "originalForms": [
+      "off part of everything"
+    ],
+    "corrected": true,
+    "note": "The original wording was unclear. Check the intended meaning before using this expression."
+  },
+  {
+    "term": "decoupled from the rest of the system",
+    "definition": "Separated from dependencies on other systems.",
+    "examples": [
+      "The service is now decoupled from the rest of the system."
+    ],
+    "expandedExample": "The service is now decoupled from the rest of the system.",
+    "originalForms": [
+      "ported off of everything"
+    ],
+    "corrected": true,
+    "note": "The original wording was unclear. Check the intended meaning before using this expression."
+  },
+  {
+    "term": "good sign",
+    "definition": "An indication that something positive is happening or will happen.",
+    "examples": [
+      "The early results are a good sign for the project.",
+      "Her quick recovery is a good sign."
+    ],
+    "expandedExample": "Fewer support tickets are a good sign.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "waste more time",
+    "definition": "To spend additional time on something unproductive.",
+    "examples": [
+      "Let’s not waste more time on this issue.",
+      "I don’t want to waste more time arguing."
+    ],
+    "expandedExample": "Let's make a decision so we don't waste more time.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "recap",
+    "definition": "To summarize or review the main points.",
+    "examples": [
+      "Let me recap what we discussed today.",
+      "The manager gave a quick recap at the end of the meeting."
+    ],
+    "expandedExample": "Could you recap the decision before we leave?",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "I feel a bit silly",
+    "definition": "To feel foolish or unintelligent.",
+    "examples": [
+      "I feel a bit silly asking, but what does that term mean?"
+    ],
+    "expandedExample": "I feel a bit silly asking, but what does that term mean?",
+    "originalForms": [
+      "feel very dumb"
+    ],
+    "corrected": true
+  },
+  {
+    "term": "dig into it a little",
+    "definition": "To investigate or look into something more deeply.",
+    "examples": [
+      "I'll dig into it a little and share what I find."
+    ],
+    "expandedExample": "I'll dig into it a little and share what I find.",
+    "originalForms": [
+      "dig into it a little / dig it a little"
+    ],
+    "corrected": true
+  },
+  {
+    "term": "dropped some additional comments",
+    "definition": "Added more comments (usually on a PR, doc, or ticket).",
+    "examples": [
+      "I dropped some additional comments on your PR — please take a look when you have time.",
+      "She dropped some additional comments in the design doc this morning."
+    ],
+    "expandedExample": "I dropped some additional comments on the draft.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "wire up",
+    "definition": "To connect things together so they work — often refers to connecting code, components, APIs, or systems.",
+    "examples": [
+      "Can you wire up the new button to the API endpoint?",
+      "Once we wire up the frontend and backend, we can start testing."
+    ],
+    "expandedExample": "We still need to wire up the form to the API.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "on my radar",
+    "definition": "Something you're aware of and paying attention to.",
+    "examples": [
+      "Yes, that bug is on my radar — I'll fix it this week.",
+      "The migration project has been on my radar for a while."
+    ],
+    "expandedExample": "The login issue is on my radar.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "leisure",
+    "definition": "Free time / time when you're not working.",
+    "examples": [
+      "Feel free to review the doc at your leisure.",
+      "I read technical blogs in my leisure time."
+    ],
+    "expandedExample": "You can read the proposal at your leisure.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "are we forgetting anything?",
+    "definition": "A polite check to make sure nothing important has been missed.",
+    "examples": [
+      "Before we wrap up the meeting, are we forgetting anything?",
+      "The release plan looks good — are we forgetting anything?"
+    ],
+    "expandedExample": "Before we finish, are we forgetting anything?",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "turn our chat into notes",
+    "definition": "To take or grab notes from a previous conversation.",
+    "examples": [
+      "I'll turn our chat into notes and send them later."
+    ],
+    "expandedExample": "I'll turn our chat into notes and send them later.",
+    "originalForms": [
+      "pick up notes from our chat (I assume \"jet\" was a typo for \"chat\")"
+    ],
+    "corrected": true
+  },
+  {
+    "term": "if no one objects",
+    "definition": "If nobody objects / disagrees.",
+    "examples": [
+      "If no one objects, I'll update the document today."
+    ],
+    "expandedExample": "If no one objects, I'll update the document today.",
+    "originalForms": [
+      "if no one opposes"
+    ],
+    "corrected": true
+  },
+  {
+    "term": "fast-paced, scrappier",
+    "definition": "A fast-paced team moves quickly; a scrappier team works resourcefully with limited resources.",
+    "examples": [
+      "The new team is fast-paced and scrappier than before."
+    ],
+    "expandedExample": "The new team is fast-paced and scrappier than before.",
+    "originalForms": [
+      "fast-paced, scrappier (I assume \"fastworth\" was a typo)"
+    ],
+    "corrected": true
+  },
+  {
+    "term": "stand for",
+    "definition": "What does this abbreviation/acronym mean?",
+    "examples": [
+      "What does that acronym stand for?"
+    ],
+    "expandedExample": "What does that acronym stand for?",
+    "originalForms": [
+      "stand for? (What does X stand for?)"
+    ],
+    "corrected": true
+  },
+  {
+    "term": "right away",
+    "definition": "Immediately / without delay.",
+    "examples": [
+      "I'll fix that right away.",
+      "Can you send me the file right away? It's urgent."
+    ],
+    "expandedExample": "I'll send you the link right away.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "spot",
+    "definition": "To notice or identify something (often something easy to miss).",
+    "examples": [
+      "It took us an hour to spot the configuration error."
+    ],
+    "expandedExample": "It took us an hour to spot the configuration error.",
+    "originalForms": [
+      "to spot"
+    ],
+    "corrected": true
+  },
+  {
+    "term": "we removed the Black Duck check",
+    "definition": "\"We removed Blackduck (a security scanning tool).\"",
+    "examples": [
+      "We removed the Black Duck check from this pipeline."
+    ],
+    "expandedExample": "We removed the Black Duck check from this pipeline.",
+    "originalForms": [
+      "Blackduck we took out (referring to removing the Blackduck tool/scan)"
+    ],
+    "corrected": true
+  },
+  {
+    "term": "nightly scan",
+    "definition": "An automated scan (usually security or quality) that runs every night.",
+    "examples": [
+      "The nightly scan caught a new vulnerability.",
+      "Let's check the results of last night's nightly scan."
+    ],
+    "expandedExample": "The nightly scan found a new dependency issue.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "move that away",
+    "definition": "Move something out of the way / remove it / shift it elsewhere.",
+    "examples": [
+      "Could you move that box away from the door?"
+    ],
+    "expandedExample": "Could you move that box away from the door?",
+    "originalForms": [
+      "move that away (I assume \"aways\" was a typo for \"away\")"
+    ],
+    "corrected": true
+  },
+  {
+    "term": "abbreviation",
+    "definition": "A shortened form of a word or phrase (e.g., \"FYI\" for \"For Your Information\").",
+    "examples": [
+      "\"API\" is an abbreviation for \"Application Programming Interface\".",
+      "The doc is full of abbreviations — can you add a glossary?"
+    ],
+    "expandedExample": "Please explain the abbreviation before using it.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "to be honest",
+    "definition": "Used to introduce a frank or candid opinion.",
+    "examples": [
+      "To be honest, I need more time to review it."
+    ],
+    "expandedExample": "To be honest, I need more time to review it.",
+    "originalForms": [
+      "to be honest (TBH)"
+    ],
+    "corrected": true
+  },
+  {
+    "term": "it's getting late on my end",
+    "definition": "It's late in my timezone.",
+    "examples": [
+      "It's getting late on my end, so let's continue tomorrow."
+    ],
+    "expandedExample": "It's getting late on my end, so let's continue tomorrow.",
+    "originalForms": [
+      "late on my time (more natural: \"it's late on my end\")",
+      "late on my time"
+    ],
+    "corrected": true
+  },
+  {
+    "term": "in theory",
+    "definition": "Something that should work conceptually, but may not in practice.",
+    "examples": [
+      "In theory, this should work — but let's test it first.",
+      "In theory, the cache will reduce load by 50%."
+    ],
+    "expandedExample": "In theory, the service should restart automatically.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "I'm clueless",
+    "definition": "I have no idea / I don't know anything about this.",
+    "examples": [
+      "I'm clueless about how this legacy code works.",
+      "Honestly, I'm clueless — let's ask the original author."
+    ],
+    "expandedExample": "I'm clueless about this tool, so I'll read the guide.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "apparently",
+    "definition": "It seems; based on what is known or heard (used when something appears to be true but you're not 100% certain)",
+    "examples": [
+      "Apparently, the meeting has been canceled.",
+      "He apparently forgot about the deadline."
+    ],
+    "expandedExample": "Apparently, the meeting moved to Friday.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "sending out",
+    "definition": "To distribute or dispatch something to multiple recipients",
+    "examples": [
+      "We're sending out invitations next week.",
+      "The server is sending out notifications to all users."
+    ],
+    "expandedExample": "We're sending out the update this afternoon.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "in touch with some team",
+    "definition": "In communication or contact with a team",
+    "examples": [
+      "I'm in touch with the design team about the new layout.",
+      "Please stay in touch with the QA team during testing."
+    ],
+    "expandedExample": "I'm in touch with the support team about it.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "find out",
+    "definition": "To discover or learn information",
+    "examples": [
+      "I'll find out who owns that service."
+    ],
+    "expandedExample": "I'll find out who owns that service.",
+    "originalForms": [
+      "to find that out"
+    ],
+    "corrected": true
+  },
+  {
+    "term": "how things turn out",
+    "definition": "The final result or outcome of a situation",
+    "examples": [
+      "Let's see how things turn out after the deployment.",
+      "I'm curious how this project will turn out."
+    ],
+    "expandedExample": "Let's see how things turn out after the trial.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "my understanding of what happened",
+    "definition": "My understanding or idea of what occurred",
+    "examples": [
+      "My understanding of what happened is that the cache failed."
+    ],
+    "expandedExample": "My understanding of what happened is that the cache failed.",
+    "originalForms": [
+      "my notion of what happened"
+    ],
+    "corrected": true
+  },
+  {
+    "term": "get annoyed with something",
+    "definition": "To become irritated or frustrated by something",
+    "examples": [
+      "I get annoyed with repetitive manual tasks.",
+      "Don't get annoyed with the slow build process."
+    ],
+    "expandedExample": "I get annoyed with notifications during meetings.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "aware of that",
+    "definition": "Having knowledge or consciousness of something",
+    "examples": [
+      "Yes, I'm aware of that issue.",
+      "The team is fully aware of that risk."
+    ],
+    "expandedExample": "I'm aware of that risk and have a backup plan.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "touchpoint",
+    "definition": "A point of contact or interaction (often between customer and business)",
+    "examples": [
+      "Email is our main touchpoint with customers.",
+      "We need to improve every touchpoint in the user journey."
+    ],
+    "expandedExample": "The welcome email is the first customer touchpoint.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "arbitrary",
+    "definition": "Based on random choice rather than reason or system",
+    "examples": [
+      "The selection seems arbitrary.",
+      "Don't use arbitrary values in your code."
+    ],
+    "expandedExample": "The deadline feels arbitrary without a clear reason.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "put it on the staging server",
+    "definition": "To place or assign something to a location/platform",
+    "examples": [
+      "Let's put it on the staging server first."
+    ],
+    "expandedExample": "Let's put it on the staging server first.",
+    "originalForms": [
+      "put it onto somewhere"
+    ],
+    "corrected": true
+  },
+  {
+    "term": "take over the work",
+    "definition": "To assume control or responsibility for everything",
+    "examples": [
+      "The new team will take over the support work."
+    ],
+    "expandedExample": "The new team will take over the support work.",
+    "originalForms": [
+      "take over all things"
+    ],
+    "corrected": true
+  },
+  {
+    "term": "carry over into the next sprint",
+    "definition": "An effect that spreads beyond its original area; overflow",
+    "examples": [
+      "This task will carry over into the next sprint."
+    ],
+    "expandedExample": "This task will carry over into the next sprint.",
+    "originalForms": [
+      "be a spillover"
+    ],
+    "corrected": true
+  },
+  {
+    "term": "document the process",
+    "definition": "To write down or record information formally",
+    "examples": [
+      "Let's document the process while it's fresh."
+    ],
+    "expandedExample": "Let's document the process while it's fresh.",
+    "originalForms": [
+      "document out"
+    ],
+    "corrected": true
+  },
+  {
+    "term": "put them into",
+    "definition": "To place items inside something or categorize them",
+    "examples": [
+      "Put them into the correct folders.",
+      "Let's put them into separate modules."
+    ],
+    "expandedExample": "Put them into separate folders.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "document that specifically",
+    "definition": "To record something in detail with precision",
+    "examples": [
+      "Make sure to document that specifically for future reference.",
+      "Can you document that specifically in the wiki?"
+    ],
+    "expandedExample": "Please document that specifically in the handover notes.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "for quite some time",
+    "definition": "For a considerably long period",
+    "examples": [
+      "This bug has existed for quite some time.",
+      "I've been working on this feature for quite some time."
+    ],
+    "expandedExample": "We've discussed this for quite some time.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "ping-ponging",
+    "definition": "Going back and forth repeatedly (like a ping-pong ball)",
+    "examples": [
+      "We've been ping-ponging emails for days.",
+      "Stop ping-ponging the task between teams."
+    ],
+    "expandedExample": "We've been ping-ponging the same request between teams.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "point out",
+    "definition": "To indicate or draw attention to something",
+    "examples": [
+      "Let me point out a few issues in the code.",
+      "She pointed out the error in my logic."
+    ],
+    "expandedExample": "I'd like to point out one missing case.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "a complaint about someone",
+    "definition": "An expression of dissatisfaction directed at a person",
+    "examples": [
+      "We received a complaint about the delivery service."
+    ],
+    "expandedExample": "We received a complaint about the delivery service.",
+    "originalForms": [
+      "complaint toward someone"
+    ],
+    "corrected": true
+  },
+  {
+    "term": "go back over it",
+    "definition": "To replay, review, or go through something again",
+    "examples": [
+      "Let's go back over the timeline."
+    ],
+    "expandedExample": "Let's go back over the timeline.",
+    "originalForms": [
+      "run some back"
+    ],
+    "corrected": true
+  },
+  {
+    "term": "get rid of",
+    "definition": "To remove or eliminate something",
+    "examples": [
+      "We need to get rid of the legacy code.",
+      "Let's get rid of those unused dependencies."
+    ],
+    "expandedExample": "We should get rid of the old configuration.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "once or twice a day",
+    "definition": "One or two times per day",
+    "examples": [
+      "The job runs once or twice a day.",
+      "I check my emails once or twice a day."
+    ],
+    "expandedExample": "I check the dashboard once or twice a day.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "repercussions",
+    "definition": "Consequences or effects (usually negative) of an action",
+    "examples": [
+      "Deleting that file could have serious repercussions.",
+      "We must consider the repercussions before making changes."
+    ],
+    "expandedExample": "The change could have legal repercussions.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "give me most of the information I need",
+    "definition": "To provide or deliver the majority of something",
+    "examples": [
+      "This report gives me most of the information I need."
+    ],
+    "expandedExample": "This report gives me most of the information I need.",
+    "originalForms": [
+      "bring me most"
+    ],
+    "corrected": true
+  },
+  {
+    "term": "decide on",
+    "definition": "To make a choice or reach a decision about something",
+    "examples": [
+      "We need to decide on the tech stack.",
+      "Have you decided on which framework to use?"
+    ],
+    "expandedExample": "We need to decide on a date by Friday.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "a matter of hours",
+    "definition": "Only a few hours; a short time",
+    "examples": [
+      "The fix should be ready in a matter of hours.",
+      "It's a matter of hours before the deployment."
+    ],
+    "expandedExample": "The fix was ready in a matter of hours.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "park for the moment",
+    "definition": "To set aside temporarily; postpone for now",
+    "examples": [
+      "Let's park that for the moment and focus on priorities.",
+      "We'll park this issue for the moment and revisit later."
+    ],
+    "expandedExample": "Let's park that for the moment.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "depleted",
+    "definition": "Used up; exhausted; reduced significantly",
+    "examples": [
+      "The server resources are depleted.",
+      "Our budget is nearly depleted."
+    ],
+    "expandedExample": "The team's energy was depleted after the incident.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "bridge that gap",
+    "definition": "To connect or reduce the difference between two things",
+    "examples": [
+      "This tool helps bridge that gap between design and development.",
+      "We need training to bridge that gap in skills."
+    ],
+    "expandedExample": "This guide should bridge the gap between design and code.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "change our logic slightly",
+    "definition": "To make small modifications to reasoning or code flow",
+    "examples": [
+      "We can change our logic slightly to handle empty inputs."
+    ],
+    "expandedExample": "We can change our logic slightly to handle empty inputs.",
+    "originalForms": [
+      "change slightly our logic"
+    ],
+    "corrected": true
+  },
+  {
+    "term": "stick with",
+    "definition": "To continue using or supporting something",
+    "examples": [
+      "Let's stick with the current solution.",
+      "I'll stick with React for this project."
+    ],
+    "expandedExample": "Let's stick with the original plan.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "extra piece of information",
+    "definition": "Additional data or detail",
+    "examples": [
+      "Here's an extra piece of information you might need.",
+      "The log provides an extra piece of information for debugging."
+    ],
+    "expandedExample": "One extra piece of information changed our decision.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "actual retailer",
+    "definition": "The real or genuine seller/store",
+    "examples": [
+      "The actual retailer handles all shipping.",
+      "Contact the actual retailer for refunds."
+    ],
+    "expandedExample": "The actual retailer can process the return.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "pragmatic",
+    "definition": "Practical; dealing with things sensibly and realistically",
+    "examples": [
+      "We need a pragmatic approach to solve this.",
+      "She's very pragmatic when it comes to deadlines."
+    ],
+    "expandedExample": "We need a pragmatic solution for this week.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "I need to get the delivery at the door",
+    "definition": "Casual expression meaning need to answer the door for a delivery",
+    "examples": [
+      "I need to get the delivery at the door. I'll be right back."
+    ],
+    "expandedExample": "I need to get the delivery at the door. I'll be right back.",
+    "originalForms": [
+      "Got to go to the door, getting a shipment"
+    ],
+    "corrected": true
+  },
+  {
+    "term": "a short period of time",
+    "definition": "A brief duration",
+    "examples": [
+      "The server will be down for a short period of time.",
+      "I learned it in a short period of time."
+    ],
+    "expandedExample": "The site was unavailable for a short period of time.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "break it down",
+    "definition": "To divide into smaller parts; analyze in detail",
+    "examples": [
+      "Let me break it down for you step by step.",
+      "We need to break it down into smaller tasks."
+    ],
+    "expandedExample": "Could you break it down into three steps?",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "plant dispatch",
+    "definition": "Sending goods out from a manufacturing facility",
+    "examples": [
+      "The plant dispatch happens every morning.",
+      "Check the plant dispatch schedule for updates."
+    ],
+    "expandedExample": "The plant dispatch schedule changed after the delay.",
+    "originalForms": [],
+    "corrected": false,
+    "note": "The original wording was unclear. Check the intended meaning before using this expression."
+  },
+  {
+    "term": "overcomplicated it",
+    "definition": "Made something more complex than necessary",
+    "examples": [
+      "I think we overcomplicated it with too many layers.",
+      "Don't overcomplicate it—keep the solution simple."
+    ],
+    "expandedExample": "We overcomplicated it with too many options.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "revamp of",
+    "definition": "A complete redesign or renovation of something",
+    "examples": [
+      "This is a complete revamp of the old system.",
+      "The revamp of the UI took three months."
+    ],
+    "expandedExample": "The revamp of the homepage is almost complete.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "sitting on that",
+    "definition": "Not taking action; holding onto something without progress",
+    "examples": [
+      "We've been sitting on that feature request for weeks.",
+      "Don't just sit on that—make a decision."
+    ],
+    "expandedExample": "We've been sitting on that request for too long.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "anatomy",
+    "definition": "The structure or internal workings of something",
+    "examples": [
+      "Let me explain the anatomy of this component.",
+      "Understanding the anatomy of the system helps with debugging."
+    ],
+    "expandedExample": "The diagram shows the anatomy of the service.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "poor job",
+    "definition": "Poor quality work (informal/slang)",
+    "examples": [
+      "We did a poor job explaining the change."
+    ],
+    "expandedExample": "We did a poor job explaining the change.",
+    "originalForms": [
+      "crappy job"
+    ],
+    "corrected": true
+  },
+  {
+    "term": "I'm amazed",
+    "definition": "Very surprised or impressed by something.",
+    "examples": [
+      "I'm amazed by how quickly the team responded."
+    ],
+    "expandedExample": "I'm amazed by how quickly the team responded.",
+    "originalForms": [
+      "I am flashed"
+    ],
+    "corrected": true
+  },
+  {
+    "term": "make it the backbone of the system",
+    "definition": "To establish something as the core/foundation of all operations",
+    "examples": [
+      "We want to make it the backbone of the system."
+    ],
+    "expandedExample": "We want to make it the backbone of the system.",
+    "originalForms": [
+      "raise as the new backbone of everything"
+    ],
+    "corrected": true
+  },
+  {
+    "term": "placement",
+    "definition": "The act of positioning something; where something is placed",
+    "examples": [
+      "Check the placement of the button on mobile.",
+      "The placement of this component affects performance."
+    ],
+    "expandedExample": "The button placement is confusing on mobile.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "scrappier",
+    "definition": "More aggressive, determined, or willing to fight for something; rougher or more resourceful.",
+    "examples": [
+      "The new team is scrappier and never gives up, even when they’re losing.",
+      "She became scrappier after facing so many challenges at work."
+    ],
+    "expandedExample": "We need a scrappier approach with this small team.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "we took out",
+    "definition": "We removed or extracted something; we brought something out.",
+    "examples": [
+      "We took out the trash before leaving the house.",
+      "We took out a loan to buy a new car."
+    ],
+    "expandedExample": "We took out the old logging code.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "procurement",
+    "definition": "The process of obtaining or buying goods and services.",
+    "examples": [
+      "The procurement department handles all company purchases.",
+      "Efficient procurement can save a business a lot of money."
+    ],
+    "expandedExample": "Procurement will review the contract next week.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "I'm torn between hugging you and being annoyed",
+    "definition": "An exaggerated expression of mixed affection and irritation.",
+    "examples": [
+      "I'm torn between hugging you and being annoyed with you."
+    ],
+    "expandedExample": "I'm torn between hugging you and being annoyed with you.",
+    "originalForms": [
+      "hug or kill you"
+    ],
+    "corrected": true
+  },
+  {
+    "term": "virus petting zoo",
+    "definition": "A humorous or sarcastic term describing a place with many different viruses, as if they were on display like animals in a petting zoo.",
+    "examples": [
+      "The old computer lab was a virus petting zoo with all those infected machines.",
+      "After visiting that hospital ward, I felt like I’d been to a virus petting zoo."
+    ],
+    "expandedExample": "That old test machine is a virus petting zoo.",
+    "originalForms": [],
+    "corrected": false,
+    "note": "The original wording was unclear. Check the intended meaning before using this expression."
+  },
+  {
+    "term": "alligator",
+    "definition": "A large reptile with a broad snout, native to the Americas, similar to but distinct from a crocodile.",
+    "examples": [
+      "We saw an alligator sunbathing by the river.",
+      "Alligators are common in the swamps of Florida."
+    ],
+    "expandedExample": "We saw an alligator near the riverbank.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "marathon",
+    "definition": "A long-distance running race of 42.195 kilometers (26.2 miles); also used metaphorically for any long, challenging task.",
+    "examples": [
+      "She trained for months to run her first marathon.",
+      "Finishing the project was a real marathon."
+    ],
+    "expandedExample": "Preparing the migration felt like a marathon.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "mathematics",
+    "definition": "The study of numbers, quantities, shapes, and patterns.",
+    "examples": [
+      "He is majoring in mathematics at university.",
+      "Mathematics is essential for engineering and science."
+    ],
+    "expandedExample": "She uses mathematics to model the data.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "clean slate",
+    "definition": "A fresh start; an opportunity to begin again without considering past mistakes or problems.",
+    "examples": [
+      "After moving to a new city, she felt like she had a clean slate.",
+      "The new year gives everyone a clean slate."
+    ],
+    "expandedExample": "Let's start the design review with a clean slate.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "piece of the puzzle",
+    "definition": "A part of something that, together with other parts, helps to complete the whole picture or solve a problem.",
+    "examples": [
+      "This clue is just one piece of the puzzle.",
+      "Each team member provides a piece of the puzzle for the project."
+    ],
+    "expandedExample": "The missing log was the final piece of the puzzle.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "cosmetic issue",
+    "definition": "A problem that affects only the appearance of something, not its function or performance.",
+    "examples": [
+      "The scratch on the car is just a cosmetic issue.",
+      "The website has a cosmetic issue with the font size."
+    ],
+    "expandedExample": "The font mismatch is a cosmetic issue.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "depression",
+    "definition": "A mental health disorder characterized by persistent sadness and loss of interest; can also refer to a period of economic downturn.",
+    "examples": [
+      "He sought help for his depression.",
+      "The country suffered a severe economic depression in the 1930s."
+    ],
+    "expandedExample": "He spoke openly about living with depression.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "toxic",
+    "definition": "Poisonous or harmful; can also describe a person, relationship, or environment that is emotionally damaging.",
+    "examples": [
+      "Some chemicals are highly toxic if inhaled.",
+      "She left her job because the work environment was toxic."
+    ],
+    "expandedExample": "The team is trying to change a toxic work culture.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "dark, sarcastic humor",
+    "definition": "Humor that is grim and sharply ironic.",
+    "examples": [
+      "The story uses dark, sarcastic humor."
+    ],
+    "expandedExample": "The story uses dark, sarcastic humor.",
+    "originalForms": [
+      "dark humorous sarcastic"
+    ],
+    "corrected": true
+  },
+  {
+    "term": "eager to learn",
+    "definition": "Having a strong desire or enthusiasm to acquire new knowledge or skills.",
+    "examples": [
+      "She is always eager to learn new things.",
+      "The students are eager to learn about science."
+    ],
+    "expandedExample": "The new engineer is eager to learn.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "at once",
+    "definition": "Immediately; or simultaneously, all at the same time.",
+    "examples": [
+      "Please come here at once!",
+      "He tried to do three things at once."
+    ],
+    "expandedExample": "Please don't change everything at once.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "whole cluster",
+    "definition": "The entire group or collection; in winemaking, refers to fermenting with whole grape clusters.",
+    "examples": [
+      "The whole cluster of grapes was used in the wine.",
+      "We need to analyze the whole cluster of data points."
+    ],
+    "expandedExample": "The failure affected the whole cluster.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "fragment",
+    "definition": "A small part broken off or detached; a piece or incomplete part of something.",
+    "examples": [
+      "She found a fragment of the broken vase.",
+      "The story was just a fragment of his memory."
+    ],
+    "expandedExample": "A small fragment of the file was missing.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "flabbergasted",
+    "definition": "Extremely surprised or shocked; astonished.",
+    "examples": [
+      "I was flabbergasted by the news.",
+      "She looked flabbergasted when she won the prize."
+    ],
+    "expandedExample": "I was flabbergasted by the unexpected result.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "Good Friday",
+    "definition": "The Friday before Easter Sunday, commemorating the crucifixion of Jesus Christ in Christianity.",
+    "examples": [
+      "Many Christians attend church services on Good Friday.",
+      "Good Friday is a public holiday in several countries."
+    ],
+    "expandedExample": "Our office will close on Good Friday.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "Easter Monday",
+    "definition": "The Monday following Easter Sunday, observed as a holiday in some countries.",
+    "examples": [
+      "The office will be closed on Easter Monday.",
+      "Easter Monday is a time for family gatherings in some cultures."
+    ],
+    "expandedExample": "We'll reopen on Easter Monday.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "fragment things",
+    "definition": "To break things into smaller, disconnected parts; to make something fragmented.",
+    "examples": [
+      "Don’t fragment things too much or we’ll lose track.",
+      "The update may fragment things in the database."
+    ],
+    "expandedExample": "Too many separate tickets can fragment things.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "hitches",
+    "definition": "Small problems, obstacles, or temporary difficulties.",
+    "examples": [
+      "The event went smoothly, with only a few minor hitches.",
+      "We encountered some hitches during the installation."
+    ],
+    "expandedExample": "The launch had a few minor hitches.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "easier to start",
+    "definition": "Simpler or less difficult to begin.",
+    "examples": [
+      "The new interface makes the program easier to start.",
+      "With clear instructions, the project is easier to start."
+    ],
+    "expandedExample": "A short guide makes the tool easier to start using.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "in the cellar",
+    "definition": "Located in the basement or underground storage area.",
+    "examples": [
+      "The wine is stored in the cellar.",
+      "They found old paintings in the cellar."
+    ],
+    "expandedExample": "The old bottles are stored in the cellar.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "luxurious",
+    "definition": "Very comfortable, elegant, or expensive; characterized by luxury.",
+    "examples": [
+      "They stayed in a luxurious hotel.",
+      "The car’s interior is luxurious."
+    ],
+    "expandedExample": "They booked a luxurious hotel for the conference.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "in a fortunate position",
+    "definition": "A role or status that provides comfort, privilege, or opulence.",
+    "examples": [
+      "We're in a fortunate position to choose between two good options."
+    ],
+    "expandedExample": "We're in a fortunate position to choose between two good options.",
+    "originalForms": [
+      "luxurious position / position of luxury"
+    ],
+    "corrected": true
+  },
+  {
+    "term": "cut things out",
+    "definition": "To remove or extract items, often by cutting.",
+    "examples": [
+      "She used scissors to cut things out of the magazine for her collage.",
+      "You should cut things out of your diet that are unhealthy."
+    ],
+    "expandedExample": "We should cut unnecessary steps out of the process.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "blister packs",
+    "definition": "Packaging consisting of a plastic shell and backing, commonly used for pills or small items.",
+    "examples": [
+      "The medicine comes in blister packs for easy use.",
+      "Please check the expiration date on the blister packs before taking the pills."
+    ],
+    "expandedExample": "The tablets come in blister packs.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "reflection of",
+    "definition": "The image or representation of something seen in a mirror or surface; also, a consideration or thought about something.",
+    "examples": [
+      "I saw my reflection in the window.",
+      "Her actions are a reflection of her values."
+    ],
+    "expandedExample": "The delay is a reflection of the approval process.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "hosting provider / holster",
+    "definition": "A hosting provider; if you meant the holder for a gun, the word is holster.",
+    "examples": [
+      "Ask the hosting provider about the outage."
+    ],
+    "expandedExample": "Ask the hosting provider about the outage.",
+    "originalForms": [
+      "hoster"
+    ],
+    "corrected": true,
+    "note": "These are two different words. Choose the one that matches the context."
+  },
+  {
+    "term": "cleanup tool",
+    "definition": "A person or tool that removes unwanted material; often a more specific noun is clearer.",
+    "examples": [
+      "The cleanup tool removes temporary files."
+    ],
+    "expandedExample": "The cleanup tool removes temporary files.",
+    "originalForms": [
+      "purger"
+    ],
+    "corrected": true,
+    "note": "The original wording was unclear. Check the intended meaning before using this expression."
+  },
+  {
+    "term": "a big, chaotic mess",
+    "definition": "Describes something very large and disorganized or messy.",
+    "examples": [
+      "The handover became a big, chaotic mess."
+    ],
+    "expandedExample": "The handover became a big, chaotic mess.",
+    "originalForms": [
+      "big chaotic"
+    ],
+    "corrected": true
+  },
+  {
+    "term": "commercial",
+    "definition": "Related to business or trade; also, an advertisement on TV, radio, etc.",
+    "examples": [
+      "The company released a new commercial for their product.",
+      "They are looking for commercial opportunities in Asia."
+    ],
+    "expandedExample": "The contract includes several commercial terms.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "at the same time",
+    "definition": "Simultaneously; happening together.",
+    "examples": [
+      "She can listen to music and study at the same time.",
+      "Two meetings were scheduled at the same time."
+    ],
+    "expandedExample": "Both tests ran at the same time.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "explore the portfolio",
+    "definition": "To examine a portfolio of work or investments.",
+    "examples": [
+      "We should explore the portfolio before choosing a vendor."
+    ],
+    "expandedExample": "We should explore the portfolio before choosing a vendor.",
+    "originalForms": [
+      "portfolio explore"
+    ],
+    "corrected": true
+  },
+  {
+    "term": "play around",
+    "definition": "To experiment, try things out, or have fun with something.",
+    "examples": [
+      "Feel free to play around with the new app features.",
+      "He likes to play around with different recipes in the kitchen."
+    ],
+    "expandedExample": "You can play around with the prototype.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "UBS",
+    "definition": "Union Bank of Switzerland; a global financial services company.",
+    "examples": [
+      "UBS is one of the largest banks in the world.",
+      "She got a job offer from UBS after graduation."
+    ],
+    "expandedExample": "UBS announced a new office in the region.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "speaking of time",
+    "definition": "Used to introduce a topic related to time.",
+    "examples": [
+      "Speaking of time, do you know when the meeting starts?",
+      "Speaking of time, we’re running late."
+    ],
+    "expandedExample": "Speaking of time, we need to leave soon.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "a lot of rumors",
+    "definition": "Many unverified stories or pieces of gossip.",
+    "examples": [
+      "There are a lot of rumors about the new manager.",
+      "A lot of rumors spread quickly in small towns."
+    ],
+    "expandedExample": "There are a lot of rumors, but no official announcement.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "as always",
+    "definition": "In the usual way; as is typical.",
+    "examples": [
+      "She was helpful, as always.",
+      "As always, he arrived early."
+    ],
+    "expandedExample": "She arrived early, as always.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "it came to mind",
+    "definition": "Occurred to me; I thought of it.",
+    "examples": [
+      "A simpler idea came to mind this morning."
+    ],
+    "expandedExample": "A simpler idea came to mind this morning.",
+    "originalForms": [
+      "came to my mind"
+    ],
+    "corrected": true
+  },
+  {
+    "term": "distribution components",
+    "definition": "An unclear reference to components used in distribution.",
+    "examples": [
+      "We need to identify the exact distribution components first."
+    ],
+    "expandedExample": "We need to identify the exact distribution components first.",
+    "originalForms": [
+      "distribution thingies"
+    ],
+    "corrected": true,
+    "note": "The original wording was unclear. Check the intended meaning before using this expression."
+  },
+  {
+    "term": "accordingly",
+    "definition": "In a way that matches or follows something else.",
+    "examples": [
+      "Please adjust your plans accordingly.",
+      "The schedule was changed, and we acted accordingly."
+    ],
+    "expandedExample": "The deadline moved, so we adjusted the plan accordingly.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "fuel",
+    "definition": "Material used to produce energy; also, to stimulate or intensify.",
+    "examples": [
+      "The car ran out of fuel on the highway.",
+      "His comments only served to fuel the argument."
+    ],
+    "expandedExample": "Positive feedback can fuel motivation.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "edge flickering",
+    "definition": "The phenomenon where the edges of an image or screen appear to flicker.",
+    "examples": [
+      "The monitor has a problem with edge flickering.",
+      "Edge flickering can be distracting during video playback."
+    ],
+    "expandedExample": "The display shows edge flickering on dark screens.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "end of the quarter",
+    "definition": "The conclusion of a three-month period in business or finance.",
+    "examples": [
+      "We need to submit the report by the end of the quarter.",
+      "Sales usually increase at the end of the quarter."
+    ],
+    "expandedExample": "We aim to finish by the end of the quarter.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "from today's allocation",
+    "definition": "From the amount allocated for one day.",
+    "examples": [
+      "The amount comes from today's allocation."
+    ],
+    "expandedExample": "The amount comes from today's allocation.",
+    "originalForms": [
+      "from the daily portion"
+    ],
+    "corrected": true,
+    "note": "The original wording was unclear. Check the intended meaning before using this expression."
+  },
+  {
+    "term": "let me recap for everyone",
+    "definition": "To review or summarize information together with everyone.",
+    "examples": [
+      "Let me recap for everyone before we finish."
+    ],
+    "expandedExample": "Let me recap for everyone before we finish.",
+    "originalForms": [
+      "recap with you all"
+    ],
+    "corrected": true
+  },
+  {
+    "term": "harmonization",
+    "definition": "The process of making things consistent or compatible.",
+    "examples": [
+      "Harmonization of standards is important for international trade.",
+      "The team worked on the harmonization of procedures."
+    ],
+    "expandedExample": "The harmonization of both teams' processes took time.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "a little bit easier",
+    "definition": "Slightly less difficult.",
+    "examples": [
+      "This version is a little bit easier to use.",
+      "The new instructions make the process a little bit easier."
+    ],
+    "expandedExample": "The new wording makes the rule a little bit easier to understand.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "fixed height",
+    "definition": "A height that does not change.",
+    "examples": [
+      "The table has a fixed height of 75 cm.",
+      "The window size is set to a fixed height."
+    ],
+    "expandedExample": "The panel has a fixed height on desktop.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "Is the number of cards per row fixed or responsive?",
+    "definition": "Asking whether the number of cards shown per row changes or stays the same.",
+    "examples": [
+      "Is the number of cards per row fixed or responsive?"
+    ],
+    "expandedExample": "Is the number of cards per row fixed or responsive?",
+    "originalForms": [
+      "Is the number of cards displayed in a row dynamic or fixed?"
+    ],
+    "corrected": true
+  },
+  {
+    "term": "vanishes",
+    "definition": "Disappears; ceases to be visible.",
+    "examples": [
+      "The magician made the coin vanish.",
+      "The text vanishes when you click the button."
+    ],
+    "expandedExample": "The warning vanishes after a few seconds.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "cozier",
+    "definition": "More comfortable or pleasant.",
+    "examples": [
+      "The new sofa makes the living room cozier.",
+      "I added some pillows to make the bed cozier."
+    ],
+    "expandedExample": "A warm light made the room cozier.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "fuel level",
+    "definition": "The amount of fuel present.",
+    "examples": [
+      "Check the fuel level before starting the trip.",
+      "The fuel level is low; we need to refill soon."
+    ],
+    "expandedExample": "The fuel level is lower than expected.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "hierarchies",
+    "definition": "Systems of ranking or organizing people or things.",
+    "examples": [
+      "The company has strict hierarchies.",
+      "Social hierarchies exist in many cultures."
+    ],
+    "expandedExample": "The diagram shows the team's reporting hierarchies.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "in a position to",
+    "definition": "Having the ability or opportunity to do something.",
+    "examples": [
+      "I’m not in a position to make that decision.",
+      "She’s in a position to help us with the project."
+    ],
+    "expandedExample": "I'm not in a position to approve that change.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "coordinate the implementation",
+    "definition": "To organize and manage the process of putting something into effect.",
+    "examples": [
+      "He will coordinate the implementation of the new system.",
+      "We need someone to coordinate the implementation of these changes."
+    ],
+    "expandedExample": "She will coordinate the implementation across teams.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "accommodate",
+    "definition": "To provide space for; to adapt to; to meet needs.",
+    "examples": [
+      "The hotel can accommodate 200 guests.",
+      "We try to accommodate all customer requests."
+    ],
+    "expandedExample": "Can the system accommodate twice as many users?",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "climate specialists",
+    "definition": "People who work on climate issues.",
+    "examples": [
+      "Climate specialists reviewed the plan."
+    ],
+    "expandedExample": "Climate specialists reviewed the plan.",
+    "originalForms": [
+      "climate people"
+    ],
+    "corrected": true,
+    "note": "The original wording was unclear. Check the intended meaning before using this expression."
+  },
+  {
+    "term": "It costs 20 tokens to use the old version",
+    "definition": "A cost of 20 tokens for using an older version.",
+    "examples": [
+      "It costs 20 tokens to use the old version."
+    ],
+    "expandedExample": "It costs 20 tokens to use the old version.",
+    "originalForms": [
+      "20 token to use old one"
+    ],
+    "corrected": true
+  },
+  {
+    "term": "get back to basics",
+    "definition": "To return to reality or become practical again.",
+    "examples": [
+      "Let's get back to basics and test the main flow."
+    ],
+    "expandedExample": "Let's get back to basics and test the main flow.",
+    "originalForms": [
+      "put our feet on the ground again"
+    ],
+    "corrected": true
+  },
+  {
+    "term": "fullscreen icon",
+    "definition": "A symbol used to expand content to fill the entire screen.",
+    "examples": [
+      "Click the fullscreen icon to watch the video in full screen.",
+      "The fullscreen icon is located in the bottom right corner."
+    ],
+    "expandedExample": "The fullscreen icon is in the top right corner.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "come up",
+    "definition": "To arise, appear, or be mentioned.",
+    "examples": [
+      "New issues may come up during testing.",
+      "Your name came up in the meeting."
+    ],
+    "expandedExample": "A new question may come up during the call.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "subcluster information",
+    "definition": "Data about smaller groups within a larger cluster.",
+    "examples": [
+      "The report includes subcluster information for detailed analysis.",
+      "We need to review the subcluster information before making a decision."
+    ],
+    "expandedExample": "We need clearer definitions for the subcluster information.",
+    "originalForms": [],
+    "corrected": false,
+    "note": "The original wording was unclear. Check the intended meaning before using this expression."
+  },
+  {
+    "term": "add some mayo",
+    "definition": "To add some mayonnaise.",
+    "examples": [
+      "Could you add some mayo to the sandwich?"
+    ],
+    "expandedExample": "Could you add some mayo to the sandwich?",
+    "originalForms": [
+      "put in a mayo"
+    ],
+    "corrected": true
+  },
+  {
+    "term": "remove that behavior",
+    "definition": "To stop or remove an unwanted behavior.",
+    "examples": [
+      "We should remove that behavior from the app."
+    ],
+    "expandedExample": "We should remove that behavior from the app.",
+    "originalForms": [
+      "go to kill that behavior"
+    ],
+    "corrected": true
+  },
+  {
+    "term": "be realistic",
+    "definition": "To be practical and sensible.",
+    "examples": [
+      "Let’s be realistic about our goals.",
+      "You need to be realistic about what you can achieve."
+    ],
+    "expandedExample": "Let's be realistic about what we can deliver.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "elect the agent",
+    "definition": "To choose or appoint a representative.",
+    "examples": [
+      "The team will elect the agent next week.",
+      "We need to elect the agent for the new project."
+    ],
+    "expandedExample": "The members will elect the agent next week.",
+    "originalForms": [],
+    "corrected": false,
+    "note": "The original wording was unclear. Check the intended meaning before using this expression."
+  },
+  {
+    "term": "massive",
+    "definition": "Very large in size or amount.",
+    "examples": [
+      "The change had a massive impact on performance."
+    ],
+    "expandedExample": "The change had a massive impact on performance.",
+    "originalForms": [
+      "massimous"
+    ],
+    "corrected": true
+  },
+  {
+    "term": "as long as",
+    "definition": "Provided that; only if.",
+    "examples": [
+      "You can go out as long as you finish your homework.",
+      "As long as it doesn’t rain, we’ll have the picnic."
+    ],
+    "expandedExample": "We can go ahead as long as the tests pass.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "one thing at a time",
+    "definition": "To focus on one task before moving to the next.",
+    "examples": [
+      "Let’s do one thing at a time to avoid mistakes.",
+      "She prefers to handle one thing at a time."
+    ],
+    "expandedExample": "Let's solve one thing at a time.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "tailor it",
+    "definition": "To adapt something to the needs of a particular person or situation.",
+    "examples": [
+      "We can tailor it to meet your needs.",
+      "The training program is tailored for beginners."
+    ],
+    "expandedExample": "We can tailor it to the client's needs.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "We'll see each other tomorrow",
+    "definition": "A statement that you will meet again tomorrow.",
+    "examples": [
+      "We'll see each other tomorrow at lunch."
+    ],
+    "expandedExample": "We'll see each other tomorrow at lunch.",
+    "originalForms": [
+      "we still see each other tmr"
+    ],
+    "corrected": true
+  },
+  {
+    "term": "mockups",
+    "definition": "Visual models or prototypes used to demonstrate the layout, structure, and user flow of a product or interface before actual development.",
+    "examples": [
+      "The mockups show the mobile layout."
+    ],
+    "expandedExample": "The mockups show the mobile layout.",
+    "originalForms": [
+      "Mock ups"
+    ],
+    "corrected": true
+  },
+  {
+    "term": "plan on",
+    "definition": "To intend or expect to do something; to have a plan or arrangement for a future action.",
+    "examples": [
+      "I plan on finishing the report by Friday.",
+      "Do you plan on attending the meeting tomorrow?"
+    ],
+    "expandedExample": "I plan on reviewing the proposal tonight.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "spillovers",
+    "definition": "Tasks or items that were not completed in the current phase and are carried over to the next phase or iteration.",
+    "examples": [
+      "We have two spillovers from the last sprint."
+    ],
+    "expandedExample": "We have two spillovers from the last sprint.",
+    "originalForms": [
+      "Spill overs"
+    ],
+    "corrected": true
+  },
+  {
+    "term": "there was some overlap",
+    "definition": "Some parts were shared or duplicated.",
+    "examples": [
+      "There was some overlap between the two plans."
+    ],
+    "expandedExample": "There was some overlap between the two plans.",
+    "originalForms": [
+      "There were some overlap"
+    ],
+    "corrected": true
+  },
+  {
+    "term": "tweaking",
+    "definition": "Making small adjustments or fine-tuning something to improve its performance or appearance.",
+    "examples": [
+      "He spent the afternoon tweaking the website’s layout.",
+      "The software needs a bit of tweaking to run smoothly."
+    ],
+    "expandedExample": "I'm tweaking the wording before we send it.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "rude email",
+    "definition": "An email written in an impolite or offensive manner, often lacking courtesy or professionalism.",
+    "examples": [
+      "She received a rude email from a dissatisfied customer.",
+      "Sending a rude email can damage your professional reputation."
+    ],
+    "expandedExample": "A rude email can damage a customer relationship.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "revoked",
+    "definition": "Officially cancelled or withdrawn, such as rights, permissions, or approvals.",
+    "examples": [
+      "His access to the system was revoked after he left the company.",
+      "The license was revoked due to repeated violations."
+    ],
+    "expandedExample": "His access was revoked after the transfer.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "cloud security",
+    "definition": "Security for cloud systems or data.",
+    "examples": [
+      "Cloud security is part of the migration plan."
+    ],
+    "expandedExample": "Cloud security is part of the migration plan.",
+    "originalForms": [
+      "Cyber cloud"
+    ],
+    "corrected": true
+  },
+  {
+    "term": "number of overdue items",
+    "definition": "The number of items past their due date.",
+    "examples": [
+      "The number of overdue items increased this week."
+    ],
+    "expandedExample": "The number of overdue items increased this week.",
+    "originalForms": [
+      "Overdue number"
+    ],
+    "corrected": true
+  },
+  {
+    "term": "make your own decisions",
+    "definition": "To make choices independently, without relying on others.",
+    "examples": [
+      "You can make your own decisions on the small details."
+    ],
+    "expandedExample": "You can make your own decisions on the small details.",
+    "originalForms": [
+      "Take your own decisions"
+    ],
+    "corrected": true
+  },
+  {
+    "term": "nevertheless",
+    "definition": "Used to introduce a contrast or unexpected result; means “in spite of that” or “however.”",
+    "examples": [
+      "It was raining; nevertheless, we went for a walk.",
+      "The task was difficult; nevertheless, he completed it on time."
+    ],
+    "expandedExample": "The budget is tight; nevertheless, we can start small.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "onsite meetings",
+    "definition": "Meetings held at a physical location, such as an office or project site, rather than remotely.",
+    "examples": [
+      "We have onsite meetings every Monday morning.",
+      "The team prefers onsite meetings for important discussions."
+    ],
+    "expandedExample": "We have onsite meetings every Tuesday.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "distracted",
+    "definition": "Unable to concentrate because attention is diverted by other things.",
+    "examples": [
+      "He was easily distracted by the noise outside.",
+      "I get distracted when my phone keeps buzzing."
+    ],
+    "expandedExample": "I was distracted by the background noise.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "shocked",
+    "definition": "Experiencing sudden and intense surprise or disbelief.",
+    "examples": [
+      "She was shocked by the unexpected news.",
+      "I was shocked to see how much the prices had increased."
+    ],
+    "expandedExample": "I was shocked to hear the news.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "the purge",
+    "definition": "The title of a movie series where, for a limited time, all crimes are legal; also means a sudden removal or cleansing.",
+    "examples": [
+      "Have you seen “The Purge”? It’s a pretty intense movie.",
+      "The company did a purge of old files from the system."
+    ],
+    "expandedExample": "The team did a purge of unused files.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "handwritten notes",
+    "definition": "Notes written by hand, usually on paper, rather than typed or digital.",
+    "examples": [
+      "I prefer taking handwritten notes during meetings.",
+      "Her handwritten notes were clear and easy to understand."
+    ],
+    "expandedExample": "I prefer handwritten notes for short meetings.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "I have no clue",
+    "definition": "I do not know; I have no idea or understanding about something.",
+    "examples": [
+      "I have no clue how this machine works.",
+      "He asked me for directions, but I had no clue."
+    ],
+    "expandedExample": "I have no clue where that file went.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "Recall",
+    "definition": "To remember something from the past; to bring a memory or information back to mind.",
+    "examples": [
+      "I can’t recall where I put my keys.",
+      "Do you recall what time the meeting starts?"
+    ],
+    "expandedExample": "I can't recall the exact date.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "in terms of goals",
+    "definition": "Regarding goals or targets.",
+    "examples": [
+      "In terms of goals, we're making progress."
+    ],
+    "expandedExample": "In terms of goals, we're making progress.",
+    "originalForms": [
+      "On goal side"
+    ],
+    "corrected": true
+  },
+  {
+    "term": "in contrast to",
+    "definition": "Used to show the difference between two things; means “compared with” or “as opposed to.”",
+    "examples": [
+      "In contrast to last year, sales have improved significantly.",
+      "Her calmness was remarkable in contrast to his nervousness."
+    ],
+    "expandedExample": "In contrast to last week, the system is stable.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "close the pop-up",
+    "definition": "To remove or close something (like a pop-up or notification) by clicking on it.",
+    "examples": [
+      "You can close the pop-up after reading it."
+    ],
+    "expandedExample": "You can close the pop-up after reading it.",
+    "originalForms": [
+      "Click it away"
+    ],
+    "corrected": true
+  },
+  {
+    "term": "wild one",
+    "definition": "A person or thing that is unconventional, energetic, or unpredictable; someone or something that acts in a bold or unusual way.",
+    "examples": [
+      "He’s a wild one at parties, always dancing and having fun.",
+      "That idea is a wild one, but it might just work!"
+    ],
+    "expandedExample": "That's a wild one, but it might work.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "I'm not a fan of it myself",
+    "definition": "A way to say that you personally dislike something.",
+    "examples": [
+      "I'm not a fan of it myself."
+    ],
+    "expandedExample": "I'm not a fan of it myself.",
+    "originalForms": [
+      "not popular myself"
+    ],
+    "corrected": true
+  },
+  {
+    "term": "send out the message",
+    "definition": "To send out a message quickly, often in large quantities",
+    "examples": [
+      "Let's send out the message after approval."
+    ],
+    "expandedExample": "Let's send out the message after approval.",
+    "originalForms": [
+      "fire out the message"
+    ],
+    "corrected": true
+  },
+  {
+    "term": "put it out",
+    "definition": "To publish, release, or make something available to others",
+    "examples": [
+      "Let's put it out on social media and see the response.",
+      "We need to put it out before the end of the week."
+    ],
+    "expandedExample": "We'll put it out once the review is complete.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "go with this",
+    "definition": "To choose or decide on this option",
+    "examples": [
+      "I think we should go with this design, it looks cleaner.",
+      "Let's just go with this plan and see how it works."
+    ],
+    "expandedExample": "I think we should go with this option.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "cryptic",
+    "definition": "Having a hidden or unclear meaning; mysterious and difficult to understand",
+    "examples": [
+      "His reply was so cryptic that I couldn't understand what he meant.",
+      "She left a cryptic note on my desk."
+    ],
+    "expandedExample": "The error message is too cryptic to be useful.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "comply",
+    "definition": "To act in accordance with rules, requests, or requirements",
+    "examples": [
+      "All employees must comply with the company's security policies.",
+      "The software needs to comply with GDPR regulations."
+    ],
+    "expandedExample": "The product must comply with the new policy.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "philosophical",
+    "definition": "Relating to philosophy; or having a calm attitude when facing difficulties",
+    "examples": [
+      "He was pretty philosophical about losing the game.",
+      "She has a philosophical approach to life's challenges."
+    ],
+    "expandedExample": "She took a philosophical view of the setback.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "obsidian",
+    "definition": "A dark, glass-like volcanic rock; also used to describe something very black",
+    "examples": [
+      "The knife was made of obsidian, sharp and beautiful.",
+      "Her obsidian eyes stared at me intensely."
+    ],
+    "expandedExample": "The sculpture was made of polished obsidian.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "weathered body",
+    "definition": "A phrase that may mean a weathered body, but needs context.",
+    "examples": [
+      "The character was described as having a weathered body."
+    ],
+    "expandedExample": "The character was described as having a weathered body.",
+    "originalForms": [
+      "bark body"
+    ],
+    "corrected": true,
+    "note": "The original wording was unclear. Check the intended meaning before using this expression."
+  },
+  {
+    "term": "get my hands dirty",
+    "definition": "To do practical or difficult work yourself, not just supervise",
+    "examples": [
+      "I need to get my hands dirty and debug this code myself.",
+      "As a manager, sometimes you still have to get your hands dirty."
+    ],
+    "expandedExample": "I need to get my hands dirty and test it myself.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "where to go with",
+    "definition": "How to proceed with something; what direction to take",
+    "examples": [
+      "I'm not sure where to go with this project anymore.",
+      "Do you have any idea where to go with this design?"
+    ],
+    "expandedExample": "I'm not sure where to go with this idea.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "from the customer's perspective",
+    "definition": "From the perspective of; in the thoughts of someone",
+    "examples": [
+      "From the customer's perspective, this step is confusing."
+    ],
+    "expandedExample": "From the customer's perspective, this step is confusing.",
+    "originalForms": [
+      "in the mind of"
+    ],
+    "corrected": true
+  },
+  {
+    "term": "get addicted to",
+    "definition": "To become dependent on or obsessed with something",
+    "examples": [
+      "I got addicted to this game and can't stop playing.",
+      "Be careful not to get addicted to social media."
+    ],
+    "expandedExample": "It's easy to get addicted to short videos.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "capable of",
+    "definition": "Having the ability or potential to do something",
+    "examples": [
+      "She's capable of handling this task on her own.",
+      "The system is capable of processing millions of requests."
+    ],
+    "expandedExample": "The tool is capable of handling large files.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "came up",
+    "definition": "To arise, appear, or be mentioned",
+    "examples": [
+      "Something came up, so I can't make it to the meeting."
+    ],
+    "expandedExample": "A new issue came up during testing.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "go with it",
+    "definition": "To accept a situation and see what happens; go with the flow",
+    "examples": [
+      "I wasn't sure about the plan, but I decided to just go with it.",
+      "Things got weird, but we just went with it."
+    ],
+    "expandedExample": "The plan wasn't perfect, but we went with it.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "deal with it",
+    "definition": "To handle or accept a situation, often a difficult one",
+    "examples": [
+      "It's not ideal, but we'll just have to deal with it.",
+      "Stop complaining and deal with it."
+    ],
+    "expandedExample": "We'll deal with it in the next release.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "I made a small mistake",
+    "definition": "Made a small mistake; informal and potentially rude.",
+    "examples": [
+      "I made a small mistake in the configuration."
+    ],
+    "expandedExample": "I made a small mistake in the configuration.",
+    "originalForms": [
+      "effed up a bit"
+    ],
+    "corrected": true
+  },
+  {
+    "term": "I messed it up",
+    "definition": "Made a serious mistake; informal and potentially rude.",
+    "examples": [
+      "I messed it up and need to redo the change."
+    ],
+    "expandedExample": "I messed it up and need to redo the change.",
+    "originalForms": [
+      "effed it up"
+    ],
+    "corrected": true
+  },
+  {
+    "term": "perfect vision",
+    "definition": "Excellent eyesight (20/20 vision); or a clear and ideal view of something",
+    "examples": [
+      "She has perfect vision and doesn't need glasses.",
+      "The CEO shared his perfect vision for the company's future."
+    ],
+    "expandedExample": "The driver had perfect vision after surgery.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "on my plate",
+    "definition": "Things that someone has to deal with or is responsible for.",
+    "examples": [
+      "I have a lot on my plate at work right now.",
+      "She can’t take on another project because she already has too much on her plate."
+    ],
+    "expandedExample": "I already have three urgent items on my plate.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "afterwards",
+    "definition": "At a later time; after something else has happened.",
+    "examples": [
+      "We went to the movie and had dinner afterwards.",
+      "He finished his homework and played video games afterwards."
+    ],
+    "expandedExample": "Let's discuss the details afterwards.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "I'm shocked",
+    "definition": "Feeling surprised or upset because something unexpected happened.",
+    "examples": [
+      "I’m shocked by the news of his resignation.",
+      "She was shocked to see her old friend at the party."
+    ],
+    "expandedExample": "I'm shocked by how quickly it changed.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "take a short break",
+    "definition": "To take a small amount of something.",
+    "examples": [
+      "Let's take a short break before the next meeting."
+    ],
+    "expandedExample": "Let's take a short break before the next meeting.",
+    "originalForms": [
+      "take a little"
+    ],
+    "corrected": true
+  },
+  {
+    "term": "lag",
+    "definition": "A delay or period of waiting between one event and another.",
+    "examples": [
+      "There is a lag between sending the message and receiving a reply.",
+      "My computer lags when I open too many programs."
+    ],
+    "expandedExample": "There's a noticeable lag in the video call.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "formal dress day",
+    "definition": "A day when people are expected or required to wear suits.",
+    "examples": [
+      "Friday is a formal dress day for the event."
+    ],
+    "expandedExample": "Friday is a formal dress day for the event.",
+    "originalForms": [
+      "suit day"
+    ],
+    "corrected": true
+  },
+  {
+    "term": "underdressed",
+    "definition": "Wearing clothes that are too casual for the occasion.",
+    "examples": [
+      "I felt underdressed at the ceremony."
+    ],
+    "expandedExample": "I felt underdressed at the ceremony.",
+    "originalForms": [
+      "under dressed"
+    ],
+    "corrected": true
+  },
+  {
+    "term": "overshot",
+    "definition": "To go beyond a target, limit, or intended point.",
+    "examples": [
+      "The car overshot the parking space.",
+      "We overshot our sales target this quarter."
+    ],
+    "expandedExample": "We overshot the budget by a small amount.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "excluded",
+    "definition": "Not included; left out.",
+    "examples": [
+      "Children under five are excluded from the survey.",
+      "He felt excluded from the group."
+    ],
+    "expandedExample": "The optional features were excluded from the first release.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "in-place",
+    "definition": "Happening or existing in the original position or location; done without moving to another place.",
+    "examples": [
+      "The software performs in-place updates, so you don’t need to reinstall it.",
+      "Please do an in-place edit of the document instead of creating a new file."
+    ],
+    "expandedExample": "The system supports in-place updates.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "as clueless as everyone else",
+    "definition": "Having no more knowledge or understanding than other people; equally unaware or confused.",
+    "examples": [
+      "When it comes to the new policy, I’m as clueless as everyone else.",
+      "Don’t ask me about the schedule—I’m as clueless as everyone else here."
+    ],
+    "expandedExample": "I'm as clueless as everyone else about the announcement.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "and so on and so forth",
+    "definition": "Used to indicate that a list continues in a similar way; similar to “etc.”",
+    "examples": [
+      "We checked the logs, the metrics, and so on and so forth."
+    ],
+    "expandedExample": "We checked the logs, the metrics, and so on and so forth.",
+    "originalForms": [
+      "so on so forth"
+    ],
+    "corrected": true
+  },
+  {
+    "term": "niche",
+    "definition": "A specialized segment of the market for a particular kind of product or service; a comfortable or suitable position in life or employment.",
+    "examples": [
+      "She found her niche in the fashion industry.",
+      "Our company focuses on a niche market for eco-friendly products."
+    ],
+    "expandedExample": "This product serves a niche market.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "greyed out / grayed out",
+    "definition": "Displayed in a lighter color to indicate that something is disabled or unavailable, especially in software interfaces.",
+    "examples": [
+      "The button is greyed out until you sign in."
+    ],
+    "expandedExample": "The button is greyed out until you sign in.",
+    "originalForms": [
+      "greyed out (or grayed out)"
+    ],
+    "corrected": true
+  },
+  {
+    "term": "undergoes",
+    "definition": "Experiences or is subjected to (something, typically a change, process, or treatment).",
+    "examples": [
+      "The building undergoes regular safety inspections.",
+      "She undergoes surgery next week."
+    ],
+    "expandedExample": "The service undergoes a security review each year.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "Screw that up somehow",
+    "definition": "To make a mistake and damage the result.",
+    "examples": [
+      "I managed to screw that up somehow."
+    ],
+    "expandedExample": "I thought the change was simple, but I screwed it up somehow.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "Elevator music",
+    "definition": "Soft, bland background music.",
+    "examples": [
+      "The waiting room was playing elevator music."
+    ],
+    "expandedExample": "There was quiet elevator music in the lobby.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "Final walkthrough",
+    "definition": "A final review or inspection.",
+    "examples": [
+      "We did a final walkthrough before launch."
+    ],
+    "expandedExample": "The final walkthrough revealed one broken link.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "was that intentional?",
+    "definition": "Used to ask whether a result was deliberate.",
+    "examples": [
+      "The button disappears after saving. Was that intentional?"
+    ],
+    "expandedExample": "The button disappears after saving. Was that intentional?",
+    "originalForms": [
+      "Is it intended"
+    ],
+    "corrected": true
+  },
+  {
+    "term": "Freaking",
+    "definition": "An informal word that adds emphasis.",
+    "examples": [
+      "That was freaking amazing."
+    ],
+    "expandedExample": "That test took a freaking long time.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "Diagonal thing",
+    "definition": "An informal reference to something at an angle; a specific noun is clearer.",
+    "examples": [
+      "The diagonal line crosses the screen."
+    ],
+    "expandedExample": "The diagonal line is part of the chart legend.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "Struggle with",
+    "definition": "To have difficulty with something.",
+    "examples": [
+      "I struggle with long presentations."
+    ],
+    "expandedExample": "I struggle with speaking quickly on calls.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "Spoiled",
+    "definition": "Ruined, damaged, or overindulged.",
+    "examples": [
+      "The food has spoiled."
+    ],
+    "expandedExample": "The fruit spoiled because we left it outside.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "First world problem",
+    "definition": "A minor complaint associated with a comfortable life.",
+    "examples": [
+      "Slow Wi-Fi is a first world problem."
+    ],
+    "expandedExample": "Having too many streaming choices is a first world problem.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "Living out of",
+    "definition": "To live temporarily with belongings kept in a bag or vehicle.",
+    "examples": [
+      "I am living out of a suitcase."
+    ],
+    "expandedExample": "I'm living out of a suitcase during the move.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "Gamification",
+    "definition": "The use of game-like features in a non-game context.",
+    "examples": [
+      "The app uses gamification."
+    ],
+    "expandedExample": "We tried gamification to make onboarding more engaging.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "Pest",
+    "definition": "A harmful insect or an annoying person.",
+    "examples": [
+      "Mosquitoes can be pests."
+    ],
+    "expandedExample": "This bug has been a real pest all week.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "Fall from fame",
+    "definition": "A loss of popularity or celebrity status.",
+    "examples": [
+      "The scandal led to a fall from fame."
+    ],
+    "expandedExample": "The actor's fall from fame happened very quickly.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "Along the way",
+    "definition": "During a journey or process.",
+    "examples": [
+      "We learned a lot along the way."
+    ],
+    "expandedExample": "We changed our approach several times along the way.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "Steer",
+    "definition": "To guide or direct something.",
+    "examples": [
+      "She steered the discussion back to the plan."
+    ],
+    "expandedExample": "She steered the conversation toward the deadline.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "I need a moment to think",
+    "definition": "A way to say that you need a moment to think.",
+    "examples": [
+      "I need a moment to think before I answer."
+    ],
+    "expandedExample": "I need a moment to think before I answer.",
+    "originalForms": [
+      "my brain cannot spin"
+    ],
+    "corrected": true
+  },
+  {
+    "term": "in touch with",
+    "definition": "In communication with someone.",
+    "examples": [
+      "I'm in touch with the vendor about the delay."
+    ],
+    "expandedExample": "I'm in touch with the vendor about the delay.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "find that out",
+    "definition": "Discover that information.",
+    "examples": [
+      "We can find that out after checking the logs."
+    ],
+    "expandedExample": "We can find that out after checking the logs.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "get annoyed with",
+    "definition": "Become irritated by someone or something.",
+    "examples": [
+      "I get annoyed with meetings that have no agenda."
+    ],
+    "expandedExample": "I get annoyed with meetings that have no agenda.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "take over",
+    "definition": "Assume control or responsibility.",
+    "examples": [
+      "She will take over the project next month."
+    ],
+    "expandedExample": "She will take over the project next month.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "citation",
+    "definition": "A reference to a source of information.",
+    "examples": [
+      "Add a citation for that statistic."
+    ],
+    "expandedExample": "Add a citation for that statistic.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "mid-session",
+    "definition": "In the middle of a meeting or other session.",
+    "examples": [
+      "We took a short mid-session break."
+    ],
+    "expandedExample": "We took a short mid-session break.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "spanning",
+    "definition": "Covering a period, distance, or range.",
+    "examples": [
+      "The project spans three teams and two regions."
+    ],
+    "expandedExample": "The project spans three teams and two regions.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "turns",
+    "definition": "Individual steps in a conversation or sequence.",
+    "examples": [
+      "The conversation took several turns before we agreed."
+    ],
+    "expandedExample": "The conversation took several turns before we agreed.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "contradict",
+    "definition": "Say or show the opposite of something.",
+    "examples": [
+      "The two reports contradict each other."
+    ],
+    "expandedExample": "The two reports contradict each other.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "warranty",
+    "definition": "A promise to repair or replace a product under stated conditions.",
+    "examples": [
+      "The device is still under warranty."
+    ],
+    "expandedExample": "The device is still under warranty.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "peer review",
+    "definition": "Evaluation of work by people with similar expertise.",
+    "examples": [
+      "The paper needs peer review before publication."
+    ],
+    "expandedExample": "The paper needs peer review before publication.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "prose",
+    "definition": "Ordinary written language rather than poetry.",
+    "examples": [
+      "The instructions use clear, simple prose."
+    ],
+    "expandedExample": "The instructions use clear, simple prose.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "ambiguous",
+    "definition": "Open to more than one interpretation.",
+    "examples": [
+      "The requirement is ambiguous, so we should clarify it."
+    ],
+    "expandedExample": "The requirement is ambiguous, so we should clarify it.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "plausible",
+    "definition": "Seeming reasonable or possible.",
+    "examples": [
+      "That is a plausible explanation, but we need evidence."
+    ],
+    "expandedExample": "That is a plausible explanation, but we need evidence.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "subtle",
+    "definition": "Not obvious and often difficult to notice.",
+    "examples": [
+      "The bug is subtle and only appears on mobile."
+    ],
+    "expandedExample": "The bug is subtle and only appears on mobile.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "surface (v.)",
+    "definition": "Become visible or known.",
+    "examples": [
+      "New issues may surface during testing."
+    ],
+    "expandedExample": "New issues may surface during testing.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "verbatim",
+    "definition": "In exactly the same words.",
+    "examples": [
+      "Please copy the error message verbatim."
+    ],
+    "expandedExample": "Please copy the error message verbatim.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "condensed",
+    "definition": "Shortened while keeping the main information.",
+    "examples": [
+      "I sent a condensed version of the report."
+    ],
+    "expandedExample": "I sent a condensed version of the report.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "vague",
+    "definition": "Not clear or specific.",
+    "examples": [
+      "The feedback is too vague to act on."
+    ],
+    "expandedExample": "The feedback is too vague to act on.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "reveal",
+    "definition": "Make something known or visible.",
+    "examples": [
+      "The logs reveal a pattern of failed requests."
+    ],
+    "expandedExample": "The logs reveal a pattern of failed requests.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "exemplar",
+    "definition": "A model example worth following.",
+    "examples": [
+      "This project is an exemplar of clear documentation."
+    ],
+    "expandedExample": "This project is an exemplar of clear documentation.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "ad-hoc",
+    "definition": "Made for a specific situation rather than as part of a general plan.",
+    "examples": [
+      "We used an ad-hoc fix until the proper release."
+    ],
+    "expandedExample": "We used an ad-hoc fix until the proper release.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "exponential",
+    "definition": "Growing by repeated multiplication rather than by a fixed amount.",
+    "examples": [
+      "The workload grew at an exponential rate."
+    ],
+    "expandedExample": "The workload grew at an exponential rate.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "critique",
+    "definition": "An analysis of strengths and weaknesses.",
+    "examples": [
+      "Her critique was specific and constructive."
+    ],
+    "expandedExample": "Her critique was specific and constructive.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "coherent",
+    "definition": "Clear and logically connected.",
+    "examples": [
+      "The proposal is coherent from start to finish."
+    ],
+    "expandedExample": "The proposal is coherent from start to finish.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "inline",
+    "definition": "Placed directly within surrounding text or content.",
+    "examples": [
+      "The error appears inline below the form."
+    ],
+    "expandedExample": "The error appears inline below the form.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "bottleneck",
+    "definition": "A point that slows down the whole process.",
+    "examples": [
+      "The review stage is the main bottleneck."
+    ],
+    "expandedExample": "The review stage is the main bottleneck.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "accumulating",
+    "definition": "Gradually collecting or building up.",
+    "examples": [
+      "Technical debt is accumulating across the codebase."
+    ],
+    "expandedExample": "Technical debt is accumulating across the codebase.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "disproportionately",
+    "definition": "To a degree that is too large or small relative to something else.",
+    "examples": [
+      "The delay disproportionately affects new users."
+    ],
+    "expandedExample": "The delay disproportionately affects new users.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "stale",
+    "definition": "No longer fresh or up to date.",
+    "examples": [
+      "The document contains stale information."
+    ],
+    "expandedExample": "The document contains stale information.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "spawns / spawning",
+    "definition": "Creates or starts something new, such as a process or thread.",
+    "examples": [
+      "The process spawns a new worker for each job."
+    ],
+    "expandedExample": "The process spawns a new worker for each job.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "rigid",
+    "definition": "Not flexible or willing to change.",
+    "examples": [
+      "A rigid process makes small changes difficult."
+    ],
+    "expandedExample": "A rigid process makes small changes difficult.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "formulaic",
+    "definition": "Following a predictable fixed pattern.",
+    "examples": [
+      "The response sounds formulaic and impersonal."
+    ],
+    "expandedExample": "The response sounds formulaic and impersonal.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "nuanced",
+    "definition": "Showing careful attention to small differences.",
+    "examples": [
+      "We need a more nuanced explanation of the trade-off."
+    ],
+    "expandedExample": "We need a more nuanced explanation of the trade-off.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "revised",
+    "definition": "Changed after review.",
+    "examples": [
+      "Please send the revised draft by Friday."
+    ],
+    "expandedExample": "Please send the revised draft by Friday.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "simultaneously",
+    "definition": "At the same time.",
+    "examples": [
+      "The two requests arrived simultaneously."
+    ],
+    "expandedExample": "The two requests arrived simultaneously.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "suppressing",
+    "definition": "Preventing something from appearing or happening.",
+    "examples": [
+      "Suppressing the warning could hide a real problem."
+    ],
+    "expandedExample": "Suppressing the warning could hide a real problem.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "refund",
+    "definition": "Money returned after a purchase or payment.",
+    "examples": [
+      "I requested a refund after the order arrived damaged."
+    ],
+    "expandedExample": "I requested a refund after the order arrived damaged.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "restocked",
+    "definition": "Made available again after new stock arrives.",
+    "examples": [
+      "The store restocked the item this morning."
+    ],
+    "expandedExample": "The store restocked the item this morning.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "revenue",
+    "definition": "Money earned by a business before expenses are deducted.",
+    "examples": [
+      "Revenue increased after the new launch."
+    ],
+    "expandedExample": "Revenue increased after the new launch.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "monetary",
+    "definition": "Related to money.",
+    "examples": [
+      "The proposal has no direct monetary benefit."
+    ],
+    "expandedExample": "The proposal has no direct monetary benefit.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "brittle",
+    "definition": "Likely to break when conditions change.",
+    "examples": [
+      "The test is brittle because it depends on timing."
+    ],
+    "expandedExample": "The test is brittle because it depends on timing.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "error propagation",
+    "definition": "The way an error travels through parts of a system.",
+    "examples": [
+      "Clear boundaries can limit error propagation."
+    ],
+    "expandedExample": "Clear boundaries can limit error propagation.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "exponential backoff",
+    "definition": "A retry method in which the delay grows after each failure.",
+    "examples": [
+      "The client uses exponential backoff after failed requests."
+    ],
+    "expandedExample": "The client uses exponential backoff after failed requests.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "few-shot examples",
+    "definition": "A small number of examples given to show the desired pattern.",
+    "examples": [
+      "A few-shot examples section helps clarify the expected format."
+    ],
+    "expandedExample": "A few-shot examples section helps clarify the expected format.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "self-critique",
+    "definition": "Reviewing and evaluating one's own work.",
+    "examples": [
+      "A short self-critique helped me improve the draft."
+    ],
+    "expandedExample": "A short self-critique helped me improve the draft.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "false positive rate",
+    "definition": "The share of negative cases incorrectly marked positive.",
+    "examples": [
+      "We lowered the false positive rate without missing more cases."
+    ],
+    "expandedExample": "We lowered the false positive rate without missing more cases.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "first-contact resolution",
+    "definition": "Solving a customer's problem in the first interaction.",
+    "examples": [
+      "Our first-contact resolution rate improved this month."
+    ],
+    "expandedExample": "Our first-contact resolution rate improved this month.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "escalation calibration",
+    "definition": "Adjusting when a case should be handed to a higher level of support.",
+    "examples": [
+      "Escalation calibration changed which tickets go to specialists."
+    ],
+    "expandedExample": "Escalation calibration changed which tickets go to specialists.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "progressive summarization",
+    "definition": "Repeatedly shortening earlier information while retaining key points.",
+    "examples": [
+      "Progressive summarization keeps long notes manageable."
+    ],
+    "expandedExample": "Progressive summarization keeps long notes manageable.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "Lost in the Middle",
+    "definition": "The tendency to miss information placed in the middle of a long context.",
+    "examples": [
+      "Lost in the Middle can make a key detail easy to miss."
+    ],
+    "expandedExample": "Lost in the Middle can make a key detail easy to miss.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "tool routing",
+    "definition": "Choosing the right tool for a request.",
+    "examples": [
+      "The tool routing rule sends code questions to the right service."
+    ],
+    "expandedExample": "The tool routing rule sends code questions to the right service.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "context window",
+    "definition": "The amount of information a model can process at one time.",
+    "examples": [
+      "The file was too long to fit in the context window."
+    ],
+    "expandedExample": "The file was too long to fit in the context window.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "fire-and-forget",
+    "definition": "Sending a task without waiting for its result.",
+    "examples": [
+      "A fire-and-forget task is fine when no reply is needed."
+    ],
+    "expandedExample": "A fire-and-forget task is fine when no reply is needed.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "frontmatter",
+    "definition": "Metadata placed at the beginning of a document.",
+    "examples": [
+      "The title and date are stored in the frontmatter."
+    ],
+    "expandedExample": "The title and date are stored in the frontmatter.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "intent classification",
+    "definition": "Identifying what a user is trying to do.",
+    "examples": [
+      "Intent classification helps route customer messages."
+    ],
+    "expandedExample": "Intent classification helps route customer messages.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "misrouting",
+    "definition": "Sending a request to the wrong destination or tool.",
+    "examples": [
+      "Misrouting delayed the response by an hour."
+    ],
+    "expandedExample": "Misrouting delayed the response by an hour.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "anti-pattern",
+    "definition": "A commonly used approach that causes problems.",
+    "examples": [
+      "Copying the same rule into every file is an anti-pattern."
+    ],
+    "expandedExample": "Copying the same rule into every file is an anti-pattern.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "distinguish A from B",
+    "definition": "Recognize the difference between two things.",
+    "examples": [
+      "We need to distinguish a timeout from a connection failure."
+    ],
+    "expandedExample": "We need to distinguish a timeout from a connection failure.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "steer toward / away from",
+    "definition": "Guide something in or out of a direction.",
+    "examples": [
+      "Let's steer the discussion toward practical options."
+    ],
+    "expandedExample": "Let's steer the discussion toward practical options.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "on an ad-hoc basis",
+    "definition": "Only when a need arises, without a fixed schedule.",
+    "examples": [
+      "We review unusual cases on an ad-hoc basis."
+    ],
+    "expandedExample": "We review unusual cases on an ad-hoc basis.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "contradict each other",
+    "definition": "Make opposite claims that cannot both be true.",
+    "examples": [
+      "These two statements contradict each other."
+    ],
+    "expandedExample": "These two statements contradict each other.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "at the lowest level capable",
+    "definition": "At the least senior or least complex level that can resolve the issue well.",
+    "examples": [
+      "Handle the issue at the lowest level capable of resolving it."
+    ],
+    "expandedExample": "Handle the issue at the lowest level capable of resolving it.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "root cause",
+    "definition": "The underlying reason a problem happened.",
+    "examples": [
+      "We found the root cause in the authentication service."
+    ],
+    "expandedExample": "We found the root cause in the authentication service.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "over-engineering",
+    "definition": "Making a solution more complex than it needs to be.",
+    "examples": [
+      "Over-engineering can make a simple feature hard to maintain."
+    ],
+    "expandedExample": "Over-engineering can make a simple feature hard to maintain.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "disproportionate to / disproportionately affected by",
+    "definition": "Two natural patterns for saying that an impact is out of proportion to something.",
+    "examples": [
+      "The impact is disproportionate to the size of the change."
+    ],
+    "expandedExample": "The impact is disproportionate to the size of the change.",
+    "originalForms": [
+      "disproportionately to"
+    ],
+    "corrected": true
+  },
+  {
+    "term": "incoherent",
+    "definition": "Not clear or logically connected.",
+    "examples": [],
+    "expandedExample": "The explanation was incoherent, so I asked for a simpler version.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "specific / precise",
+    "definition": "Clear and exact rather than general.",
+    "examples": [],
+    "expandedExample": "Please be specific about the deadline.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "obvious",
+    "definition": "Easy to notice or understand.",
+    "examples": [],
+    "expandedExample": "The error was obvious once we saw the full log.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "systematic",
+    "definition": "Done according to an organized method.",
+    "examples": [],
+    "expandedExample": "We need a systematic way to review the reports.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "hide / conceal",
+    "definition": "To keep something from being seen or known.",
+    "examples": [],
+    "expandedExample": "The warning should not hide the underlying error.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "flexible",
+    "definition": "Able to change or adapt easily.",
+    "examples": [],
+    "expandedExample": "We need a flexible plan for the next release.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "fresh / current",
+    "definition": "New or up to date.",
+    "examples": [],
+    "expandedExample": "Make sure the figures are current before the meeting.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "simplistic",
+    "definition": "Too simple to account for important details.",
+    "examples": [],
+    "expandedExample": "That explanation is simplistic and misses the main risk.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "robust",
+    "definition": "Strong enough to work well under difficult conditions.",
+    "examples": [],
+    "expandedExample": "The new retry logic is more robust.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "accumulating disproportionately",
+    "definition": "Building up at an unequal or excessive rate.",
+    "examples": [],
+    "expandedExample": "Technical debt is accumulating disproportionately in the older service.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "Hi, how’s your day going?",
+    "definition": "A natural way to start a friendly conversation.",
+    "examples": [],
+    "expandedExample": "Use this complete sentence as a model, then replace the detail with your own situation.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "It’s good to see you again.",
+    "definition": "A natural way to start a friendly conversation.",
+    "examples": [],
+    "expandedExample": "Use this complete sentence as a model, then replace the detail with your own situation.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "How was your weekend?",
+    "definition": "A natural way to start a friendly conversation.",
+    "examples": [],
+    "expandedExample": "Use this complete sentence as a model, then replace the detail with your own situation.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "I’m still waking up, but I’m doing well.",
+    "definition": "A natural way to start a friendly conversation.",
+    "examples": [],
+    "expandedExample": "Use this complete sentence as a model, then replace the detail with your own situation.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "What have you been up to lately?",
+    "definition": "A natural way to start a friendly conversation.",
+    "examples": [],
+    "expandedExample": "Use this complete sentence as a model, then replace the detail with your own situation.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "Oh, really? What happened?",
+    "definition": "A response that shows interest and keeps the conversation going.",
+    "examples": [],
+    "expandedExample": "Use this complete sentence as a model, then replace the detail with your own situation.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "That sounds interesting. How did it go?",
+    "definition": "A response that shows interest and keeps the conversation going.",
+    "examples": [],
+    "expandedExample": "Use this complete sentence as a model, then replace the detail with your own situation.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "I’ve had a similar experience.",
+    "definition": "A response that shows interest and keeps the conversation going.",
+    "examples": [],
+    "expandedExample": "Use this complete sentence as a model, then replace the detail with your own situation.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "What do you think about it?",
+    "definition": "A response that shows interest and keeps the conversation going.",
+    "examples": [],
+    "expandedExample": "Use this complete sentence as a model, then replace the detail with your own situation.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "Tell me more about that.",
+    "definition": "A response that shows interest and keeps the conversation going.",
+    "examples": [],
+    "expandedExample": "Use this complete sentence as a model, then replace the detail with your own situation.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "Give me a second to think.",
+    "definition": "A phrase to use when you need a moment to think or rephrase.",
+    "examples": [],
+    "expandedExample": "Use this complete sentence as a model, then replace the detail with your own situation.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "How should I put this?",
+    "definition": "A phrase to use when you need a moment to think or rephrase.",
+    "examples": [],
+    "expandedExample": "Use this complete sentence as a model, then replace the detail with your own situation.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "I can’t think of the word right now.",
+    "definition": "A phrase to use when you need a moment to think or rephrase.",
+    "examples": [],
+    "expandedExample": "Use this complete sentence as a model, then replace the detail with your own situation.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "What I mean is…",
+    "definition": "A phrase to use when you need a moment to think or rephrase.",
+    "examples": [],
+    "expandedExample": "Use this complete sentence as a model, then replace the detail with your own situation.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "Let me try that again.",
+    "definition": "A phrase to use when you need a moment to think or rephrase.",
+    "examples": [],
+    "expandedExample": "Use this complete sentence as a model, then replace the detail with your own situation.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "I’m not sure how to say this in English, but…",
+    "definition": "A phrase to use when you need a moment to think or rephrase.",
+    "examples": [],
+    "expandedExample": "Use this complete sentence as a model, then replace the detail with your own situation.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "Sorry, I didn’t catch that.",
+    "definition": "A polite way to ask for repetition or check what you heard.",
+    "examples": [],
+    "expandedExample": "Use this complete sentence as a model, then replace the detail with your own situation.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "Could you say it one more time?",
+    "definition": "A polite way to ask for repetition or check what you heard.",
+    "examples": [],
+    "expandedExample": "Use this complete sentence as a model, then replace the detail with your own situation.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "Could you speak a little more slowly?",
+    "definition": "A polite way to ask for repetition or check what you heard.",
+    "examples": [],
+    "expandedExample": "Use this complete sentence as a model, then replace the detail with your own situation.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "Did you say Thursday or Tuesday?",
+    "definition": "A polite way to ask for repetition or check what you heard.",
+    "examples": [],
+    "expandedExample": "Use this complete sentence as a model, then replace the detail with your own situation.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "So you mean we should meet at three, right?",
+    "definition": "A polite way to ask for repetition or check what you heard.",
+    "examples": [],
+    "expandedExample": "Use this complete sentence as a model, then replace the detail with your own situation.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "Are you free sometime this weekend?",
+    "definition": "A sentence for making or changing plans.",
+    "examples": [],
+    "expandedExample": "Use this complete sentence as a model, then replace the detail with your own situation.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "Would Saturday afternoon work for you?",
+    "definition": "A sentence for making or changing plans.",
+    "examples": [],
+    "expandedExample": "Use this complete sentence as a model, then replace the detail with your own situation.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "Something came up. Could we move it to Sunday?",
+    "definition": "A sentence for making or changing plans.",
+    "examples": [],
+    "expandedExample": "Use this complete sentence as a model, then replace the detail with your own situation.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "That works for me.",
+    "definition": "A sentence for making or changing plans.",
+    "examples": [],
+    "expandedExample": "Use this complete sentence as a model, then replace the detail with your own situation.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "No worries. We can do it another time.",
+    "definition": "A sentence for making or changing plans.",
+    "examples": [],
+    "expandedExample": "Use this complete sentence as a model, then replace the detail with your own situation.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "Excuse me, could you help me with this?",
+    "definition": "A polite request for help or information.",
+    "examples": [],
+    "expandedExample": "Use this complete sentence as a model, then replace the detail with your own situation.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "I’m looking for the train station.",
+    "definition": "A polite request for help or information.",
+    "examples": [],
+    "expandedExample": "Use this complete sentence as a model, then replace the detail with your own situation.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "Is this the right line for the airport?",
+    "definition": "A polite request for help or information.",
+    "examples": [],
+    "expandedExample": "Use this complete sentence as a model, then replace the detail with your own situation.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "Could I have a glass of water, please?",
+    "definition": "A polite request for help or information.",
+    "examples": [],
+    "expandedExample": "Use this complete sentence as a model, then replace the detail with your own situation.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "How much is this?",
+    "definition": "A polite request for help or information.",
+    "examples": [],
+    "expandedExample": "Use this complete sentence as a model, then replace the detail with your own situation.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "It was great talking with you.",
+    "definition": "A natural way to end a conversation.",
+    "examples": [],
+    "expandedExample": "Use this complete sentence as a model, then replace the detail with your own situation.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "I should get going.",
+    "definition": "A natural way to end a conversation.",
+    "examples": [],
+    "expandedExample": "Use this complete sentence as a model, then replace the detail with your own situation.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "Let’s catch up again soon.",
+    "definition": "A natural way to end a conversation.",
+    "examples": [],
+    "expandedExample": "Use this complete sentence as a model, then replace the detail with your own situation.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "Take care, and have a good rest of your day.",
+    "definition": "A natural way to end a conversation.",
+    "examples": [],
+    "expandedExample": "Use this complete sentence as a model, then replace the detail with your own situation.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "Talk to you later.",
+    "definition": "A natural way to end a conversation.",
+    "examples": [],
+    "expandedExample": "Use this complete sentence as a model, then replace the detail with your own situation.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "I finished the API integration yesterday.",
+    "definition": "A concise sentence for giving a work update.",
+    "examples": [],
+    "expandedExample": "Use this complete sentence as a model, then replace the detail with your own situation.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "I'm working on the error handling today.",
+    "definition": "A concise sentence for giving a work update.",
+    "examples": [],
+    "expandedExample": "Use this complete sentence as a model, then replace the detail with your own situation.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "I'm blocked by the missing test credentials.",
+    "definition": "A concise sentence for giving a work update.",
+    "examples": [],
+    "expandedExample": "Use this complete sentence as a model, then replace the detail with your own situation.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "I should have an update by tomorrow.",
+    "definition": "A concise sentence for giving a work update.",
+    "examples": [],
+    "expandedExample": "Use this complete sentence as a model, then replace the detail with your own situation.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "That's everything from my side.",
+    "definition": "A concise sentence for giving a work update.",
+    "examples": [],
+    "expandedExample": "Use this complete sentence as a model, then replace the detail with your own situation.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "Could you say that again a little more slowly?",
+    "definition": "A way to check that you understood someone correctly.",
+    "examples": [],
+    "expandedExample": "Use this complete sentence as a model, then replace the detail with your own situation.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "Just to make sure I understand, do you mean the staging environment?",
+    "definition": "A way to check that you understood someone correctly.",
+    "examples": [],
+    "expandedExample": "Use this complete sentence as a model, then replace the detail with your own situation.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "What does that abbreviation stand for?",
+    "definition": "A way to check that you understood someone correctly.",
+    "examples": [],
+    "expandedExample": "Use this complete sentence as a model, then replace the detail with your own situation.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "Could you give me an example?",
+    "definition": "A way to check that you understood someone correctly.",
+    "examples": [],
+    "expandedExample": "Use this complete sentence as a model, then replace the detail with your own situation.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "Let me recap to check we're aligned.",
+    "definition": "A way to check that you understood someone correctly.",
+    "examples": [],
+    "expandedExample": "Use this complete sentence as a model, then replace the detail with your own situation.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "I see where you're coming from.",
+    "definition": "A sentence for expressing an opinion or concern.",
+    "examples": [],
+    "expandedExample": "Use this complete sentence as a model, then replace the detail with your own situation.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "I agree with the goal, but I'm concerned about the timeline.",
+    "definition": "A sentence for expressing an opinion or concern.",
+    "examples": [],
+    "expandedExample": "Use this complete sentence as a model, then replace the detail with your own situation.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "Could we consider a smaller first release?",
+    "definition": "A sentence for expressing an opinion or concern.",
+    "examples": [],
+    "expandedExample": "Use this complete sentence as a model, then replace the detail with your own situation.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "What would happen if we delayed this by a week?",
+    "definition": "A sentence for expressing an opinion or concern.",
+    "examples": [],
+    "expandedExample": "Use this complete sentence as a model, then replace the detail with your own situation.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "I think we should go with option B because it's easier to maintain.",
+    "definition": "A sentence for expressing an opinion or concern.",
+    "examples": [],
+    "expandedExample": "Use this complete sentence as a model, then replace the detail with your own situation.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "I'm struggling to reproduce this bug locally.",
+    "definition": "A sentence for explaining a blocker or asking for help.",
+    "examples": [],
+    "expandedExample": "Use this complete sentence as a model, then replace the detail with your own situation.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "The missing access is holding up the release.",
+    "definition": "A sentence for explaining a blocker or asking for help.",
+    "examples": [],
+    "expandedExample": "Use this complete sentence as a model, then replace the detail with your own situation.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "Could you help me figure out the root cause?",
+    "definition": "A sentence for explaining a blocker or asking for help.",
+    "examples": [],
+    "expandedExample": "Use this complete sentence as a model, then replace the detail with your own situation.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "Do you have the bandwidth to review this today?",
+    "definition": "A sentence for explaining a blocker or asking for help.",
+    "examples": [],
+    "expandedExample": "Use this complete sentence as a model, then replace the detail with your own situation.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "If you're busy, I can take the first pass.",
+    "definition": "A sentence for explaining a blocker or asking for help.",
+    "examples": [],
+    "expandedExample": "Use this complete sentence as a model, then replace the detail with your own situation.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "We spotted a spike in error rates after the deployment.",
+    "definition": "A sentence for describing a technical incident carefully.",
+    "examples": [],
+    "expandedExample": "Use this complete sentence as a model, then replace the detail with your own situation.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "We're looking into the logs to find the root cause.",
+    "definition": "A sentence for describing a technical incident carefully.",
+    "examples": [],
+    "expandedExample": "Use this complete sentence as a model, then replace the detail with your own situation.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "It may be related to the cache, but we haven't confirmed that yet.",
+    "definition": "A sentence for describing a technical incident carefully.",
+    "examples": [],
+    "expandedExample": "Use this complete sentence as a model, then replace the detail with your own situation.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "We've rolled back the change as a precaution.",
+    "definition": "A sentence for describing a technical incident carefully.",
+    "examples": [],
+    "expandedExample": "Use this complete sentence as a model, then replace the detail with your own situation.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "I'll share another update in thirty minutes.",
+    "definition": "A sentence for describing a technical incident carefully.",
+    "examples": [],
+    "expandedExample": "Use this complete sentence as a model, then replace the detail with your own situation.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "Can we clarify what's in scope for this release?",
+    "definition": "A sentence for discussing scope, timing, or priority.",
+    "examples": [],
+    "expandedExample": "Use this complete sentence as a model, then replace the detail with your own situation.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "That request would affect the timeline.",
+    "definition": "A sentence for discussing scope, timing, or priority.",
+    "examples": [],
+    "expandedExample": "Use this complete sentence as a model, then replace the detail with your own situation.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "We can include it if we move another item to the next sprint.",
+    "definition": "A sentence for discussing scope, timing, or priority.",
+    "examples": [],
+    "expandedExample": "Use this complete sentence as a model, then replace the detail with your own situation.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "What's the priority: speed or flexibility?",
+    "definition": "A sentence for discussing scope, timing, or priority.",
+    "examples": [],
+    "expandedExample": "Use this complete sentence as a model, then replace the detail with your own situation.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "Let me confirm the decision and next steps.",
+    "definition": "A sentence for discussing scope, timing, or priority.",
+    "examples": [],
+    "expandedExample": "Use this complete sentence as a model, then replace the detail with your own situation.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "Let me walk you through the new flow.",
+    "definition": "A sentence for demonstrating or explaining a product.",
+    "examples": [],
+    "expandedExample": "Use this complete sentence as a model, then replace the detail with your own situation.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "This button is greyed out until you select a file.",
+    "definition": "A sentence for demonstrating or explaining a product.",
+    "examples": [],
+    "expandedExample": "Use this complete sentence as a model, then replace the detail with your own situation.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "We wired up the form to the new API.",
+    "definition": "A sentence for demonstrating or explaining a product.",
+    "examples": [],
+    "expandedExample": "Use this complete sentence as a model, then replace the detail with your own situation.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "The main trade-off is speed versus accuracy.",
+    "definition": "A sentence for demonstrating or explaining a product.",
+    "examples": [],
+    "expandedExample": "Use this complete sentence as a model, then replace the detail with your own situation.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "Before launch, we'll do a final walkthrough.",
+    "definition": "A sentence for demonstrating or explaining a product.",
+    "examples": [],
+    "expandedExample": "Use this complete sentence as a model, then replace the detail with your own situation.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "Let me recap the key points.",
+    "definition": "A sentence for closing a meeting and agreeing on next steps.",
+    "examples": [],
+    "expandedExample": "Use this complete sentence as a model, then replace the detail with your own situation.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "I'll document the decision and share it with the team.",
+    "definition": "A sentence for closing a meeting and agreeing on next steps.",
+    "examples": [],
+    "expandedExample": "Use this complete sentence as a model, then replace the detail with your own situation.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "I'll follow up with the design team by Thursday.",
+    "definition": "A sentence for closing a meeting and agreeing on next steps.",
+    "examples": [],
+    "expandedExample": "Use this complete sentence as a model, then replace the detail with your own situation.",
+    "originalForms": [],
+    "corrected": false
+  },
+  {
+    "term": "If no one has any objections, let's go with this plan.",
+    "definition": "A sentence for closing a meeting and agreeing on next steps.",
+    "examples": [],
+    "expandedExample": "Use this complete sentence as a model, then replace the detail with your own situation.",
+    "originalForms": [],
+    "corrected": false
+  }
+]

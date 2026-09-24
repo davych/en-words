@@ -24,7 +24,9 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
       - name: Validate content
-        run: python3 -m json.tool site/content/lessons.json > /dev/null
+        run: |
+          python3 -m json.tool site/content/notes.json > /dev/null
+          python3 -m json.tool site/content/resources.json > /dev/null
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Upload site
