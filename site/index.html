@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#f7f5ef">
+    <meta name="description" content="面向商务、项目与 IT 场景的英语开口笔记：短句、对话、常用语法和完整原始笔记。">
+    <title>Speak Notes · 英语开口笔记</title>
+    <link rel="stylesheet" href="./styles.css">
+    <script src="./app.js" defer></script>
+  </head>
+  <body>
+    <div class="layout">
+      <aside class="sidebar" aria-label="站点导航">
+        <a class="brand" href="#top" aria-label="Speak Notes 首页">
+          <span class="brand-mark">s<span>.</span></span>
+          <span><strong>Speak Notes</strong><small>英语开口笔记</small></span>
+        </a>
+        <div class="side-caption">CONTENTS / 目录</div>
+        <nav class="nav" aria-label="内容分类">
+          <button class="nav-button active" data-view="scenarios" type="button"><span class="nav-num">01</span> 场景口语</button>
+          <button class="nav-button" data-view="grammar" type="button"><span class="nav-num">02</span> 语法速查</button>
+          <button class="nav-button" data-view="notes" type="button"><span class="nav-num">03</span> 我的原始笔记</button>
+          <button class="nav-button" data-view="resources" type="button"><span class="nav-num">04</span> 练习资料</button>
+        </nav>
+        <div class="side-note">
+          <span class="side-note-symbol">↗</span>
+          <p>先读一句，再用自己的工作内容替换关键词，大声说出来。</p>
+        </div>
+      </aside>
+
+      <main id="top" class="main">
+        <header class="topbar">
+          <span class="topbar-label">A PERSONAL ENGLISH NOTEBOOK</span>
+          <a href="https://github.com/davych/en-words" target="_blank" rel="noopener noreferrer">GitHub ↗</a>
+        </header>
+
+        <section class="hero" aria-labelledby="hero-title">
+          <div class="eyebrow"><span class="eyebrow-dot"></span> FOR EVERYDAY LIFE, WORK &amp; TECH</div>
+          <h1 id="hero-title">从<span>“想得到”</span><br>到<span>“说得出”</span><span class="period">.</span></h1>
+          <p class="hero-copy">给日常生活、商务、项目和 IT 沟通准备的一本英语笔记。每次打开，挑一个熟悉的场景，读几句，再换成自己的话说一遍。</p>
+          <div class="hero-meta"><span>短句起步</span><span>真实场景</span><span>不用打卡</span></div>
+        </section>
+
+        <section class="quick-start" aria-label="快速开始">
+          <div><span class="mini-label">HOW TO USE / 怎么用</span><p>看中文 → 试着说英文 → 点朗读核对 → 换成自己的生活或工作内容再说一次。</p></div>
+          <span class="quick-arrow" aria-hidden="true">↘</span>
+        </section>
+
+        <section class="library" aria-labelledby="section-title">
+          <div class="section-top">
+            <div><span class="mini-label" id="section-kicker">01 / SPEAKING</span><h2 id="section-title">场景口语</h2><p id="section-description">从最常遇到的对话开始。</p></div>
+            <div class="section-count" id="section-count" aria-live="polite"></div>
+          </div>
+          <div class="search-row">
+            <label class="search-wrap" for="search"><span aria-hidden="true">⌕</span><input id="search" type="search" placeholder="搜索英文、中文或场景…" autocomplete="off"><kbd>搜索</kbd></label>
+          </div>
+          <div id="filters" class="filters" aria-label="场景筛选"></div>
+          <div id="content" class="content" aria-live="polite"><p class="loading">内容加载中…</p></div>
+        </section>
+        <footer class="footer"><span>Speak Notes © 2026</span><span>Keep it simple. Say it out loud.</span></footer>
+      </main>
+    </div>
+  </body>
+</html>
